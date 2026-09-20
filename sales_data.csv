@@ -1,0 +1,953 @@
+order_id,order_date,category,product,unit_price_try,quantity,discount_pct,revenue_try,region,channel,customer_rating
+ORD-12034,2025-01-01,Sports & Outdoor,Fitness Band,541.82,2,0,1083.64,Central Anatolia,Mobile App,3
+ORD-11003,2025-01-01,Electronics,Wireless Earbuds,1066.01,1,0,1066.01,Eastern Anatolia,Mobile App,5
+ORD-10957,2025-01-02,Beauty,Sunscreen,327.63,2,0,655.26,Central Anatolia,Mobile App,4
+ORD-10252,2025-01-02,Electronics,Smart Watch,584.23,1,0,584.23,Mediterranean,Mobile App,4
+ORD-12089,2025-01-02,Sports & Outdoor,Bike Lock,417.15,1,0,417.15,Central Anatolia,Website,4
+ORD-10807,2025-01-02,Sports & Outdoor,Fitness Band,248.26,1,10,223.43,Mediterranean,Website,5
+ORD-10220,2025-01-03,Apparel,Sweatshirt,107.56,1,0,107.56,Central Anatolia,Website,4
+ORD-12162,2025-01-03,Beauty,Sunscreen,194.13,1,0,194.13,Marmara,Desktop,3
+ORD-10152,2025-01-04,Electronics,Bluetooth Speaker,1095.6,1,0,1095.6,Black Sea,Mobile App,3
+ORD-10856,2025-01-05,Electronics,Phone Case,905.2,1,0,905.2,Black Sea,Mobile App,4
+ORD-10201,2025-01-07,Apparel,Sock Set,298.24,1,10,268.42,Marmara,Mobile App,5
+ORD-10338,2025-01-07,Home & Living,Storage Box Set,167.61,1,0,167.61,Marmara,Website,5
+ORD-12313,2025-01-07,Electronics,Bluetooth Speaker,789.35,1,0,789.35,Southeastern Anatolia,Mobile App,5
+ORD-10416,2025-01-08,Electronics,Phone Case,649.32,1,0,649.32,Eastern Anatolia,Desktop,3
+ORD-10351,2025-01-08,Electronics,Smart Watch,982.5,1,0,982.5,Black Sea,Mobile App,2
+ORD-11051,2025-01-09,Beauty,Shampoo,134.17,1,0,134.17,Marmara,Website,4
+ORD-11259,2025-01-09,Home & Living,LED Desk Lamp,403.71,1,0,403.71,Mediterranean,Desktop,4
+ORD-11772,2025-01-10,Electronics,Bluetooth Speaker,1055.19,2,0,2110.38,Marmara,Desktop,3
+ORD-11941,2025-01-10,Apparel,Basic T-Shirt,180.85,1,0,180.85,Aegean,Mobile App,2
+ORD-10991,2025-01-12,Apparel,Sweatshirt,155.97,1,30,109.18,Aegean,Website,4
+ORD-10042,2025-01-13,Beauty,Face Serum,71.71,1,0,71.71,Marmara,Mobile App,5
+ORD-11565,2025-01-13,Home & Living,Storage Box Set,432.95,2,15,736.02,Marmara,Desktop,3
+ORD-10795,2025-01-13,Electronics,Wireless Earbuds,624.81,1,0,624.81,Black Sea,Website,3
+ORD-10018,2025-01-13,Beauty,Lipstick,165.62,1,20,132.5,Black Sea,Website,2
+ORD-11067,2025-01-16,Electronics,Power Bank,1083.03,1,0,1083.03,Central Anatolia,Desktop,5
+ORD-11969,2025-01-16,Electronics,Phone Case,484.23,1,0,484.23,Southeastern Anatolia,Website,2
+ORD-11927,2025-01-16,Beauty,Shampoo,117.04,2,0,234.08,Mediterranean,Mobile App,4
+ORD-10551,2025-01-17,Home & Living,LED Desk Lamp,224.99,2,0,449.98,Central Anatolia,Mobile App,5
+ORD-10664,2025-01-17,Home & Living,Storage Box Set,197.5,1,0,197.5,Marmara,Mobile App,5
+ORD-10464,2025-01-17,Electronics,Wireless Earbuds,355.62,1,0,355.62,Black Sea,Website,5
+ORD-10904,2025-01-17,Apparel,Sweatshirt,257.57,1,0,257.57,Marmara,Website,5
+ORD-10885,2025-01-18,Sports & Outdoor,Bike Lock,575.59,2,0,1151.18,Central Anatolia,Website,5
+ORD-12291,2025-01-19,Electronics,Power Bank,319.69,1,0,319.69,Marmara,Desktop,1
+ORD-10075,2025-01-19,Home & Living,LED Desk Lamp,262.27,1,0,262.27,Marmara,Mobile App,5
+ORD-11847,2025-01-20,Electronics,Power Bank,882.33,1,0,882.33,Southeastern Anatolia,Website,4
+ORD-11984,2025-01-20,Beauty,Moisturizing Cream,180.5,1,20,144.4,Southeastern Anatolia,Mobile App,5
+ORD-10915,2025-01-20,Home & Living,Aroma Diffuser,175.5,1,0,175.5,Southeastern Anatolia,Website,4
+ORD-11525,2025-01-20,Apparel,Basic T-Shirt,94.32,1,20,75.46,Aegean,Website,2
+ORD-10250,2025-01-21,Beauty,Sunscreen,72.5,1,15,61.62,Marmara,Desktop,5
+ORD-10034,2025-01-22,Apparel,Sports Shorts,342.17,1,15,290.84,Central Anatolia,Website,4
+ORD-10655,2025-01-22,Home & Living,Storage Box Set,221.43,1,0,221.43,Black Sea,Desktop,5
+ORD-10679,2025-01-22,Electronics,Phone Case,886.45,1,30,620.52,Marmara,Website,5
+ORD-11477,2025-01-23,Home & Living,Storage Box Set,166.3,1,0,166.3,Central Anatolia,Website,4
+ORD-12268,2025-01-24,Electronics,Phone Case,1038.28,2,0,2076.56,Black Sea,Mobile App,5
+ORD-10318,2025-01-24,Apparel,Sweatshirt,99.97,1,0,99.97,Marmara,Mobile App,5
+ORD-12393,2025-01-24,Home & Living,Aroma Diffuser,438.96,1,0,438.96,Mediterranean,Website,5
+ORD-10946,2025-01-24,Sports & Outdoor,Yoga Mat,477.08,1,15,405.52,Marmara,Website,5
+ORD-12157,2025-01-24,Home & Living,Storage Box Set,312.54,1,0,312.54,Aegean,Mobile App,4
+ORD-12021,2025-01-25,Beauty,Shampoo,103.79,1,0,103.79,Aegean,Website,4
+ORD-10736,2025-01-25,Beauty,Sunscreen,196.11,1,0,196.11,Marmara,Website,4
+ORD-10282,2025-01-25,Electronics,Phone Case,233.96,1,0,233.96,Central Anatolia,Desktop,2
+ORD-11021,2025-01-25,Sports & Outdoor,Fitness Band,107.67,1,15,91.52,Central Anatolia,Mobile App,5
+ORD-10580,2025-01-25,Home & Living,Storage Box Set,316.18,1,0,316.18,Marmara,Website,4
+ORD-11768,2025-01-25,Electronics,Wireless Earbuds,975.49,1,0,975.49,Central Anatolia,Website,2
+ORD-10378,2025-01-26,Electronics,Bluetooth Speaker,329.11,2,0,658.22,Black Sea,Website,4
+ORD-11661,2025-01-26,Sports & Outdoor,Yoga Mat,154.09,1,0,154.09,Aegean,Website,3
+ORD-11463,2025-01-26,Beauty,Lipstick,234.22,1,0,234.22,Aegean,Mobile App,4
+ORD-11088,2025-01-26,Sports & Outdoor,Bike Lock,217.68,1,15,185.03,Aegean,Website,5
+ORD-12138,2025-01-27,Sports & Outdoor,Backpack,107.84,1,0,107.84,Southeastern Anatolia,Website,5
+ORD-11818,2025-01-27,Apparel,Cap,60.98,1,0,60.98,Marmara,Desktop,5
+ORD-11593,2025-01-27,Home & Living,Storage Box Set,308.0,1,30,215.6,Aegean,Mobile App,1
+ORD-11949,2025-01-28,Apparel,Sock Set,322.48,2,0,644.96,Marmara,Website,5
+ORD-10233,2025-01-28,Home & Living,Aroma Diffuser,322.99,1,10,290.69,Marmara,Desktop,4
+ORD-12147,2025-01-29,Beauty,Face Serum,104.0,1,0,104.0,Central Anatolia,Mobile App,5
+ORD-11128,2025-01-29,Electronics,Phone Case,767.55,1,0,767.55,Central Anatolia,Website,5
+ORD-11954,2025-01-30,Apparel,Sock Set,175.59,1,30,122.91,Marmara,Website,4
+ORD-11918,2025-01-30,Beauty,Shampoo,169.87,1,0,169.87,Mediterranean,Website,4
+ORD-12032,2025-01-30,Electronics,Smart Watch,718.02,2,0,1436.04,Mediterranean,Mobile App,5
+ORD-11580,2025-01-30,Beauty,Shampoo,149.92,1,10,134.93,Marmara,Mobile App,4
+ORD-12246,2025-01-30,Apparel,Sweatshirt,255.84,2,0,511.68,Mediterranean,Desktop,1
+ORD-11020,2025-01-31,Electronics,Smart Watch,1101.21,1,0,1101.21,Central Anatolia,Mobile App,5
+ORD-11351,2025-01-31,Beauty,Moisturizing Cream,308.57,1,0,308.57,Aegean,Website,4
+ORD-11409,2025-01-31,Electronics,Smart Watch,917.78,2,0,1835.56,Aegean,Desktop,3
+ORD-10600,2025-01-31,Electronics,Smart Watch,741.58,2,0,1483.16,Central Anatolia,Mobile App,5
+ORD-11497,2025-02-01,Apparel,Basic T-Shirt,326.83,1,0,326.83,Mediterranean,Mobile App,5
+ORD-11136,2025-02-01,Electronics,Smart Watch,859.9,1,20,687.92,Marmara,Mobile App,2
+ORD-12388,2025-02-02,Home & Living,Aroma Diffuser,87.51,1,0,87.51,Mediterranean,Mobile App,3
+ORD-10514,2025-02-02,Apparel,Sports Shorts,185.5,1,0,185.5,Marmara,Mobile App,2
+ORD-10720,2025-02-02,Electronics,Smart Watch,975.22,1,0,975.22,Southeastern Anatolia,Mobile App,5
+ORD-11859,2025-02-02,Beauty,Lipstick,233.22,1,20,186.58,Black Sea,Website,4
+ORD-12137,2025-02-02,Apparel,Sock Set,198.01,1,0,198.01,Black Sea,Mobile App,4
+ORD-11014,2025-02-03,Sports & Outdoor,Bike Lock,144.48,1,20,115.58,Marmara,Mobile App,4
+ORD-10774,2025-02-03,Beauty,Moisturizing Cream,370.9,1,15,315.26,Aegean,Mobile App,4
+ORD-11086,2025-02-03,Sports & Outdoor,Fitness Band,198.02,1,0,198.02,Marmara,Desktop,5
+ORD-11997,2025-02-03,Electronics,Smart Watch,1186.14,1,0,1186.14,Central Anatolia,Website,4
+ORD-11900,2025-02-03,Electronics,Wireless Earbuds,164.94,1,10,148.45,Marmara,Website,4
+ORD-10742,2025-02-04,Apparel,Sports Shorts,259.32,3,0,777.96,Central Anatolia,Website,3
+ORD-12281,2025-02-04,Home & Living,Storage Box Set,213.6,1,0,213.6,Central Anatolia,Mobile App,3
+ORD-12140,2025-02-05,Electronics,Smart Watch,526.7,2,0,1053.4,Mediterranean,Mobile App,5
+ORD-11946,2025-02-06,Apparel,Sweatshirt,93.96,1,20,75.17,Central Anatolia,Website,4
+ORD-10938,2025-02-06,Beauty,Shampoo,263.97,2,0,527.94,Marmara,Website,3
+ORD-11804,2025-02-07,Home & Living,Aroma Diffuser,404.8,1,0,404.8,Central Anatolia,Website,4
+ORD-11775,2025-02-07,Apparel,Basic T-Shirt,106.07,1,30,74.25,Marmara,Mobile App,4
+ORD-10301,2025-02-07,Beauty,Moisturizing Cream,239.84,2,10,431.71,Marmara,Desktop,4
+ORD-10753,2025-02-07,Sports & Outdoor,Bike Lock,252.53,1,0,252.53,Central Anatolia,Mobile App,5
+ORD-11465,2025-02-08,Electronics,Phone Case,599.42,1,0,599.42,Marmara,Mobile App,4
+ORD-10122,2025-02-08,Sports & Outdoor,Fitness Band,569.31,1,0,569.31,Marmara,Website,4
+ORD-11435,2025-02-08,Apparel,Sweatshirt,133.14,2,20,213.02,Aegean,Website,4
+ORD-10490,2025-02-09,Apparel,Sports Shorts,270.76,1,0,270.76,Black Sea,Mobile App,4
+ORD-11940,2025-02-09,Home & Living,Candle Set,247.45,2,0,494.9,Black Sea,Website,5
+ORD-11296,2025-02-09,Beauty,Shampoo,209.11,1,0,209.11,Black Sea,Mobile App,1
+ORD-10232,2025-02-10,Electronics,Phone Case,1064.29,1,0,1064.29,Aegean,Website,5
+ORD-10489,2025-02-10,Electronics,Phone Case,773.49,1,0,773.49,Aegean,Mobile App,2
+ORD-11417,2025-02-11,Apparel,Sweatshirt,205.07,1,0,205.07,Aegean,Website,5
+ORD-10800,2025-02-11,Beauty,Sunscreen,384.62,1,0,384.62,Marmara,Mobile App,5
+ORD-10059,2025-02-12,Beauty,Moisturizing Cream,92.89,1,0,92.89,Marmara,Website,5
+ORD-10097,2025-02-12,Home & Living,Storage Box Set,108.07,1,0,108.07,Marmara,Mobile App,4
+ORD-11029,2025-02-12,Electronics,Wireless Earbuds,1079.84,1,15,917.86,Central Anatolia,Mobile App,3
+ORD-10646,2025-02-13,Apparel,Cap,237.71,2,0,475.42,Marmara,Mobile App,4
+ORD-10846,2025-02-13,Beauty,Shampoo,351.23,1,0,351.23,Central Anatolia,Mobile App,5
+ORD-11695,2025-02-14,Beauty,Face Serum,341.91,1,0,341.91,Marmara,Website,5
+ORD-10808,2025-02-14,Apparel,Sports Shorts,335.74,1,0,335.74,Eastern Anatolia,Website,4
+ORD-10156,2025-02-15,Home & Living,LED Desk Lamp,141.52,1,0,141.52,Central Anatolia,Mobile App,5
+ORD-11208,2025-02-15,Apparel,Basic T-Shirt,222.86,1,10,200.57,Marmara,Website,5
+ORD-11161,2025-02-15,Beauty,Face Serum,225.95,2,0,451.9,Black Sea,Mobile App,3
+ORD-11812,2025-02-16,Beauty,Face Serum,208.45,1,0,208.45,Central Anatolia,Mobile App,4
+ORD-10165,2025-02-16,Electronics,Smart Watch,767.68,3,0,2303.04,Central Anatolia,Mobile App,5
+ORD-10529,2025-02-16,Electronics,Power Bank,523.77,1,0,523.77,Southeastern Anatolia,Mobile App,4
+ORD-12357,2025-02-16,Electronics,Smart Watch,252.59,1,0,252.59,Mediterranean,Mobile App,4
+ORD-10401,2025-02-17,Sports & Outdoor,Fitness Band,278.73,1,0,278.73,Central Anatolia,Mobile App,5
+ORD-10757,2025-02-17,Apparel,Basic T-Shirt,269.69,1,0,269.69,Central Anatolia,Mobile App,5
+ORD-12312,2025-02-17,Apparel,Sock Set,60.41,1,0,60.41,Eastern Anatolia,Mobile App,5
+ORD-12166,2025-02-18,Apparel,Cap,234.19,1,0,234.19,Mediterranean,Mobile App,5
+ORD-10383,2025-02-18,Apparel,Cap,123.53,1,0,123.53,Aegean,Website,4
+ORD-10137,2025-02-18,Apparel,Sock Set,338.71,1,0,338.71,Marmara,Desktop,4
+ORD-10558,2025-02-18,Electronics,Wireless Earbuds,544.24,2,0,1088.48,Eastern Anatolia,Website,5
+ORD-11740,2025-02-18,Beauty,Shampoo,109.16,1,15,92.79,Black Sea,Website,5
+ORD-11654,2025-02-19,Apparel,Sock Set,269.28,1,15,228.89,Marmara,Desktop,4
+ORD-10310,2025-02-19,Beauty,Sunscreen,236.93,2,0,473.86,Central Anatolia,Website,4
+ORD-11026,2025-02-19,Electronics,Smart Watch,573.81,3,0,1721.43,Mediterranean,Mobile App,3
+ORD-10784,2025-02-19,Beauty,Moisturizing Cream,177.62,1,0,177.62,Southeastern Anatolia,Mobile App,4
+ORD-11379,2025-02-20,Home & Living,Aroma Diffuser,100.87,2,0,201.74,Marmara,Mobile App,5
+ORD-11104,2025-02-20,Apparel,Sweatshirt,212.11,1,10,190.9,Mediterranean,Desktop,5
+ORD-11829,2025-02-21,Apparel,Sports Shorts,116.6,1,10,104.94,Marmara,Mobile App,4
+ORD-12090,2025-02-21,Electronics,Wireless Earbuds,245.99,1,0,245.99,Black Sea,Mobile App,4
+ORD-10149,2025-02-22,Apparel,Sweatshirt,335.05,1,0,335.05,Southeastern Anatolia,Mobile App,2
+ORD-10617,2025-02-22,Apparel,Sock Set,70.12,1,0,70.12,Black Sea,Mobile App,5
+ORD-11022,2025-02-22,Beauty,Sunscreen,196.52,2,15,334.08,Central Anatolia,Website,5
+ORD-11150,2025-02-22,Electronics,Bluetooth Speaker,331.4,1,15,281.69,Central Anatolia,Mobile App,2
+ORD-10433,2025-02-23,Home & Living,LED Desk Lamp,332.57,1,0,332.57,Black Sea,Website,4
+ORD-10661,2025-02-23,Sports & Outdoor,Water Bottle,304.2,1,15,258.57,Mediterranean,Desktop,3
+ORD-11925,2025-02-23,Beauty,Face Serum,212.84,1,0,212.84,Marmara,Mobile App,5
+ORD-11235,2025-02-23,Beauty,Sunscreen,395.74,1,0,395.74,Aegean,Mobile App,1
+ORD-11989,2025-02-24,Electronics,Wireless Earbuds,694.55,1,0,694.55,Mediterranean,Website,5
+ORD-10727,2025-02-24,Home & Living,Candle Set,400.53,1,0,400.53,Marmara,Mobile App,5
+ORD-10801,2025-02-25,Beauty,Sunscreen,177.67,1,10,159.9,Marmara,Website,5
+ORD-11824,2025-02-25,Electronics,Wireless Earbuds,449.39,1,0,449.39,Marmara,Website,5
+ORD-12297,2025-02-25,Sports & Outdoor,Fitness Band,449.12,1,15,381.75,Marmara,Mobile App,4
+ORD-11952,2025-02-25,Apparel,Sports Shorts,176.79,1,0,176.79,Mediterranean,Mobile App,2
+ORD-11187,2025-02-25,Electronics,Phone Case,493.24,1,0,493.24,Marmara,Website,4
+ORD-11108,2025-02-25,Apparel,Sports Shorts,179.07,2,15,304.42,Mediterranean,Website,5
+ORD-11189,2025-02-26,Electronics,Wireless Earbuds,1142.38,1,0,1142.38,Mediterranean,Mobile App,4
+ORD-11674,2025-02-26,Sports & Outdoor,Fitness Band,512.42,1,10,461.18,Eastern Anatolia,Website,4
+ORD-11691,2025-02-26,Home & Living,LED Desk Lamp,142.35,1,0,142.35,Southeastern Anatolia,Mobile App,4
+ORD-10048,2025-02-27,Electronics,Power Bank,176.62,3,10,476.87,Mediterranean,Mobile App,5
+ORD-10237,2025-02-28,Home & Living,Candle Set,267.68,1,0,267.68,Eastern Anatolia,Desktop,5
+ORD-10199,2025-03-01,Beauty,Lipstick,318.72,1,0,318.72,Black Sea,Desktop,5
+ORD-11455,2025-03-01,Apparel,Cap,205.74,2,0,411.48,Central Anatolia,Mobile App,3
+ORD-10029,2025-03-01,Beauty,Face Serum,398.76,3,0,1196.28,Southeastern Anatolia,Mobile App,5
+ORD-11126,2025-03-01,Apparel,Basic T-Shirt,233.47,1,0,233.47,Eastern Anatolia,Mobile App,4
+ORD-10099,2025-03-02,Apparel,Sweatshirt,71.85,1,0,71.85,Marmara,Mobile App,5
+ORD-11089,2025-03-02,Beauty,Shampoo,233.29,1,0,233.29,Central Anatolia,Mobile App,4
+ORD-12116,2025-03-02,Beauty,Sunscreen,179.0,1,0,179.0,Marmara,Mobile App,5
+ORD-11371,2025-03-02,Electronics,Smart Watch,696.19,1,0,696.19,Central Anatolia,Website,5
+ORD-12070,2025-03-02,Beauty,Moisturizing Cream,71.64,1,0,71.64,Aegean,Mobile App,4
+ORD-11807,2025-03-04,Beauty,Shampoo,377.06,1,10,339.35,Aegean,Mobile App,2
+ORD-11447,2025-03-04,Sports & Outdoor,Yoga Mat,485.75,1,0,485.75,Marmara,Mobile App,3
+ORD-10883,2025-03-04,Apparel,Sports Shorts,222.96,1,0,222.96,Central Anatolia,Website,1
+ORD-12343,2025-03-05,Sports & Outdoor,Bike Lock,364.11,1,0,364.11,Southeastern Anatolia,Mobile App,3
+ORD-10923,2025-03-05,Electronics,Wireless Earbuds,821.06,1,30,574.74,Marmara,Mobile App,2
+ORD-11625,2025-03-06,Apparel,Sweatshirt,106.49,1,0,106.49,Marmara,Website,4
+ORD-11622,2025-03-06,Apparel,Sports Shorts,90.73,1,0,90.73,Central Anatolia,Website,2
+ORD-10011,2025-03-06,Electronics,Phone Case,594.57,1,0,594.57,Marmara,Mobile App,4
+ORD-10290,2025-03-06,Apparel,Sweatshirt,301.95,1,0,301.95,Marmara,Mobile App,5
+ORD-11184,2025-03-06,Apparel,Sock Set,163.45,1,10,147.1,Marmara,Mobile App,2
+ORD-11226,2025-03-06,Apparel,Sweatshirt,311.62,1,0,311.62,Aegean,Mobile App,3
+ORD-12110,2025-03-07,Home & Living,Candle Set,269.07,1,0,269.07,Marmara,Website,3
+ORD-11639,2025-03-07,Beauty,Moisturizing Cream,313.87,1,0,313.87,Aegean,Mobile App,5
+ORD-10349,2025-03-07,Beauty,Face Serum,223.1,2,0,446.2,Central Anatolia,Mobile App,4
+ORD-10345,2025-03-07,Electronics,Wireless Earbuds,1055.09,1,0,1055.09,Marmara,Website,5
+ORD-10944,2025-03-07,Home & Living,Candle Set,324.34,2,0,648.68,Central Anatolia,Desktop,5
+ORD-12172,2025-03-08,Home & Living,Throw Blanket,334.6,2,0,669.2,Central Anatolia,Mobile App,2
+ORD-11696,2025-03-09,Electronics,Phone Case,687.01,1,0,687.01,Mediterranean,Mobile App,5
+ORD-11780,2025-03-09,Electronics,Phone Case,237.07,1,0,237.07,Southeastern Anatolia,Mobile App,5
+ORD-10257,2025-03-10,Electronics,Smart Watch,923.72,2,0,1847.44,Marmara,Mobile App,4
+ORD-11713,2025-03-10,Home & Living,Storage Box Set,288.2,1,20,230.56,Marmara,Mobile App,4
+ORD-11787,2025-03-10,Beauty,Sunscreen,350.09,1,20,280.07,Central Anatolia,Mobile App,5
+ORD-10837,2025-03-10,Electronics,Bluetooth Speaker,601.86,1,0,601.86,Central Anatolia,Website,5
+ORD-11855,2025-03-10,Home & Living,LED Desk Lamp,246.4,1,0,246.4,Southeastern Anatolia,Mobile App,5
+ORD-12011,2025-03-11,Electronics,Power Bank,807.77,2,0,1615.54,Central Anatolia,Website,1
+ORD-10884,2025-03-12,Electronics,Wireless Earbuds,795.82,2,20,1273.31,Central Anatolia,Mobile App,5
+ORD-11590,2025-03-13,Electronics,Bluetooth Speaker,338.48,1,0,338.48,Southeastern Anatolia,Mobile App,5
+ORD-10207,2025-03-13,Apparel,Sports Shorts,119.07,1,0,119.07,Aegean,Mobile App,5
+ORD-12058,2025-03-13,Electronics,Wireless Earbuds,414.25,1,0,414.25,Marmara,Website,4
+ORD-11652,2025-03-14,Beauty,Shampoo,156.64,1,0,156.64,Mediterranean,Mobile App,5
+ORD-10160,2025-03-14,Home & Living,LED Desk Lamp,349.43,1,0,349.43,Aegean,Mobile App,3
+ORD-10101,2025-03-14,Apparel,Cap,199.53,1,0,199.53,Marmara,Mobile App,5
+ORD-10173,2025-03-14,Apparel,Basic T-Shirt,173.57,1,20,138.86,Black Sea,Mobile App,4
+ORD-12042,2025-03-14,Electronics,Bluetooth Speaker,183.38,1,0,183.38,Central Anatolia,Website,1
+ORD-10452,2025-03-15,Electronics,Phone Case,548.05,1,0,548.05,Marmara,Mobile App,4
+ORD-10585,2025-03-16,Apparel,Sweatshirt,205.1,1,0,205.1,Central Anatolia,Mobile App,5
+ORD-11651,2025-03-17,Electronics,Wireless Earbuds,386.13,1,0,386.13,Eastern Anatolia,Mobile App,4
+ORD-10242,2025-03-17,Beauty,Face Serum,332.52,2,0,665.04,Eastern Anatolia,Website,4
+ORD-11640,2025-03-17,Electronics,Phone Case,961.12,1,0,961.12,Mediterranean,Website,3
+ORD-11355,2025-03-17,Electronics,Wireless Earbuds,283.68,1,20,226.94,Mediterranean,Website,5
+ORD-12374,2025-03-18,Electronics,Wireless Earbuds,772.92,1,0,772.92,Southeastern Anatolia,Mobile App,2
+ORD-12373,2025-03-19,Home & Living,Storage Box Set,121.89,2,0,243.78,Marmara,Desktop,5
+ORD-10088,2025-03-19,Home & Living,Candle Set,173.03,1,0,173.03,Southeastern Anatolia,Website,5
+ORD-11692,2025-03-19,Home & Living,LED Desk Lamp,158.45,1,0,158.45,Marmara,Website,4
+ORD-12346,2025-03-20,Electronics,Bluetooth Speaker,319.22,1,0,319.22,Mediterranean,Mobile App,4
+ORD-11068,2025-03-20,Home & Living,Throw Blanket,237.17,1,15,201.59,Mediterranean,Mobile App,1
+ORD-11427,2025-03-21,Electronics,Wireless Earbuds,1091.3,1,0,1091.3,Southeastern Anatolia,Desktop,3
+ORD-11353,2025-03-23,Beauty,Shampoo,337.92,1,0,337.92,Aegean,Desktop,2
+ORD-10391,2025-03-23,Beauty,Lipstick,266.79,1,15,226.77,Aegean,Mobile App,3
+ORD-10223,2025-03-23,Electronics,Power Bank,835.93,1,0,835.93,Central Anatolia,Mobile App,5
+ORD-10539,2025-03-24,Beauty,Lipstick,165.43,1,0,165.43,Central Anatolia,Mobile App,5
+ORD-11514,2025-03-25,Sports & Outdoor,Water Bottle,293.27,1,10,263.94,Black Sea,Website,5
+ORD-11155,2025-03-25,Apparel,Cap,144.21,2,0,288.42,Mediterranean,Desktop,3
+ORD-11528,2025-03-25,Electronics,Power Bank,1066.2,1,10,959.58,Aegean,Mobile App,5
+ORD-10610,2025-03-25,Electronics,Smart Watch,426.41,1,15,362.45,Black Sea,Website,3
+ORD-10241,2025-03-27,Electronics,Phone Case,844.71,3,0,2534.13,Marmara,Mobile App,3
+ORD-10699,2025-03-27,Apparel,Basic T-Shirt,202.7,1,0,202.7,Marmara,Website,4
+ORD-10340,2025-03-28,Electronics,Bluetooth Speaker,743.6,1,30,520.52,Central Anatolia,Mobile App,5
+ORD-10780,2025-03-28,Beauty,Lipstick,346.03,1,0,346.03,Mediterranean,Mobile App,4
+ORD-11464,2025-03-28,Apparel,Cap,294.37,1,0,294.37,Aegean,Website,5
+ORD-11783,2025-03-28,Electronics,Power Bank,1074.58,1,0,1074.58,Marmara,Mobile App,4
+ORD-10629,2025-03-28,Sports & Outdoor,Backpack,144.6,1,0,144.6,Eastern Anatolia,Website,3
+ORD-10154,2025-03-28,Apparel,Sock Set,100.61,1,0,100.61,Mediterranean,Mobile App,4
+ORD-11244,2025-03-30,Electronics,Phone Case,283.78,1,0,283.78,Marmara,Website,5
+ORD-12336,2025-03-30,Home & Living,Aroma Diffuser,354.4,1,0,354.4,Marmara,Website,3
+ORD-10776,2025-03-31,Beauty,Sunscreen,295.28,1,20,236.22,Southeastern Anatolia,Mobile App,3
+ORD-11010,2025-03-31,Electronics,Power Bank,453.59,1,0,453.59,Aegean,Website,4
+ORD-11423,2025-03-31,Home & Living,Throw Blanket,366.9,1,10,330.21,Marmara,Website,5
+ORD-11655,2025-03-31,Home & Living,Storage Box Set,120.48,1,0,120.48,Mediterranean,Mobile App,2
+ORD-10060,2025-03-31,Home & Living,LED Desk Lamp,176.46,1,0,176.46,Aegean,Desktop,5
+ORD-10925,2025-04-01,Beauty,Moisturizing Cream,294.71,2,0,589.42,Central Anatolia,Mobile App,3
+ORD-12114,2025-04-03,Home & Living,Storage Box Set,362.03,3,10,977.48,Marmara,Mobile App,5
+ORD-10115,2025-04-04,Apparel,Sports Shorts,306.71,1,0,306.71,Southeastern Anatolia,Desktop,5
+ORD-11405,2025-04-04,Apparel,Cap,255.03,1,0,255.03,Southeastern Anatolia,Mobile App,5
+ORD-11239,2025-04-05,Home & Living,Aroma Diffuser,253.54,1,0,253.54,Central Anatolia,Mobile App,5
+ORD-10063,2025-04-06,Electronics,Wireless Earbuds,1127.3,2,0,2254.6,Mediterranean,Website,5
+ORD-11873,2025-04-06,Home & Living,Aroma Diffuser,410.71,2,0,821.42,Mediterranean,Mobile App,3
+ORD-11782,2025-04-06,Beauty,Sunscreen,120.83,1,0,120.83,Central Anatolia,Desktop,5
+ORD-10982,2025-04-07,Electronics,Phone Case,1003.8,1,0,1003.8,Marmara,Website,3
+ORD-10487,2025-04-09,Apparel,Cap,303.5,1,0,303.5,Southeastern Anatolia,Website,5
+ORD-10086,2025-04-09,Electronics,Wireless Earbuds,164.36,1,0,164.36,Central Anatolia,Website,2
+ORD-10285,2025-04-09,Sports & Outdoor,Fitness Band,489.17,1,0,489.17,Mediterranean,Website,4
+ORD-10522,2025-04-10,Apparel,Basic T-Shirt,60.59,1,0,60.59,Aegean,Website,5
+ORD-12126,2025-04-10,Apparel,Cap,231.58,1,0,231.58,Central Anatolia,Mobile App,5
+ORD-11023,2025-04-11,Apparel,Sports Shorts,315.24,1,0,315.24,Central Anatolia,Website,4
+ORD-10621,2025-04-12,Beauty,Moisturizing Cream,342.86,1,10,308.57,Marmara,Mobile App,5
+ORD-10246,2025-04-12,Home & Living,Throw Blanket,303.28,1,0,303.28,Aegean,Mobile App,3
+ORD-11480,2025-04-12,Home & Living,Storage Box Set,157.66,1,0,157.66,Mediterranean,Mobile App,2
+ORD-12197,2025-04-12,Beauty,Lipstick,106.46,2,0,212.92,Central Anatolia,Mobile App,4
+ORD-10244,2025-04-12,Beauty,Shampoo,290.31,2,10,522.56,Black Sea,Mobile App,3
+ORD-11962,2025-04-13,Apparel,Basic T-Shirt,270.0,2,0,540.0,Central Anatolia,Website,3
+ORD-10314,2025-04-14,Beauty,Sunscreen,360.34,1,0,360.34,Mediterranean,Website,4
+ORD-11752,2025-04-15,Electronics,Phone Case,528.34,2,0,1056.68,Black Sea,Website,4
+ORD-11358,2025-04-15,Home & Living,Candle Set,168.09,2,0,336.18,Marmara,Mobile App,4
+ORD-11109,2025-04-15,Beauty,Lipstick,148.99,1,0,148.99,Aegean,Mobile App,5
+ORD-10602,2025-04-16,Beauty,Moisturizing Cream,247.55,2,30,346.57,Southeastern Anatolia,Mobile App,5
+ORD-10666,2025-04-16,Apparel,Sports Shorts,145.95,2,0,291.9,Mediterranean,Mobile App,5
+ORD-11118,2025-04-16,Home & Living,LED Desk Lamp,291.35,1,0,291.35,Marmara,Mobile App,3
+ORD-11748,2025-04-17,Electronics,Power Bank,430.04,3,0,1290.12,Black Sea,Desktop,5
+ORD-12230,2025-04-17,Home & Living,Storage Box Set,432.63,1,0,432.63,Marmara,Mobile App,3
+ORD-12198,2025-04-18,Electronics,Phone Case,591.8,1,30,414.26,Southeastern Anatolia,Mobile App,1
+ORD-10167,2025-04-18,Apparel,Sports Shorts,82.32,1,0,82.32,Mediterranean,Mobile App,5
+ORD-10953,2025-04-19,Electronics,Bluetooth Speaker,252.49,1,20,201.99,Black Sea,Mobile App,4
+ORD-10374,2025-04-20,Beauty,Shampoo,396.38,1,0,396.38,Black Sea,Mobile App,4
+ORD-10683,2025-04-20,Apparel,Cap,234.26,1,15,199.12,Aegean,Mobile App,4
+ORD-12301,2025-04-20,Apparel,Cap,282.35,1,0,282.35,Eastern Anatolia,Mobile App,5
+ORD-12149,2025-04-20,Apparel,Sports Shorts,267.78,1,30,187.45,Central Anatolia,Website,5
+ORD-12233,2025-04-22,Apparel,Basic T-Shirt,279.94,1,0,279.94,Black Sea,Mobile App,2
+ORD-12259,2025-04-22,Apparel,Cap,126.04,1,0,126.04,Marmara,Mobile App,3
+ORD-11074,2025-04-23,Electronics,Smart Watch,674.13,1,0,674.13,Mediterranean,Mobile App,4
+ORD-10424,2025-04-23,Sports & Outdoor,Water Bottle,91.18,1,0,91.18,Central Anatolia,Mobile App,5
+ORD-10023,2025-04-23,Electronics,Smart Watch,1197.63,1,30,838.34,Aegean,Mobile App,5
+ORD-10656,2025-04-23,Home & Living,LED Desk Lamp,153.3,1,15,130.3,Aegean,Mobile App,2
+ORD-10927,2025-04-24,Sports & Outdoor,Water Bottle,357.91,1,30,250.54,Aegean,Mobile App,5
+ORD-12073,2025-04-25,Electronics,Power Bank,372.73,1,20,298.18,Black Sea,Website,5
+ORD-12129,2025-04-25,Home & Living,Candle Set,446.93,1,0,446.93,Central Anatolia,Website,5
+ORD-10485,2025-04-26,Beauty,Lipstick,347.14,1,0,347.14,Eastern Anatolia,Mobile App,4
+ORD-11753,2025-04-26,Electronics,Bluetooth Speaker,783.91,2,0,1567.82,Eastern Anatolia,Mobile App,3
+ORD-12044,2025-04-26,Home & Living,Throw Blanket,282.71,1,10,254.44,Central Anatolia,Website,5
+ORD-11950,2025-04-27,Apparel,Basic T-Shirt,259.05,1,15,220.19,Marmara,Mobile App,1
+ORD-11936,2025-04-27,Sports & Outdoor,Yoga Mat,201.68,1,0,201.68,Aegean,Mobile App,5
+ORD-10945,2025-04-27,Electronics,Bluetooth Speaker,758.78,1,0,758.78,Marmara,Mobile App,4
+ORD-11034,2025-04-28,Home & Living,LED Desk Lamp,228.36,1,10,205.52,Black Sea,Mobile App,5
+ORD-10234,2025-04-28,Electronics,Bluetooth Speaker,695.76,1,10,626.18,Aegean,Mobile App,4
+ORD-10431,2025-04-28,Home & Living,Storage Box Set,256.28,1,0,256.28,Eastern Anatolia,Website,5
+ORD-10549,2025-04-28,Apparel,Sports Shorts,338.36,1,0,338.36,Aegean,Mobile App,4
+ORD-12144,2025-04-29,Home & Living,Aroma Diffuser,248.37,1,0,248.37,Mediterranean,Mobile App,4
+ORD-10303,2025-04-29,Apparel,Sweatshirt,340.86,1,0,340.86,Eastern Anatolia,Website,4
+ORD-10839,2025-04-29,Sports & Outdoor,Backpack,116.94,1,0,116.94,Marmara,Mobile App,4
+ORD-11252,2025-05-01,Home & Living,Throw Blanket,286.02,2,0,572.04,Aegean,Website,2
+ORD-12296,2025-05-01,Beauty,Moisturizing Cream,87.75,2,0,175.5,Southeastern Anatolia,Website,5
+ORD-11166,2025-05-02,Electronics,Wireless Earbuds,786.99,1,0,786.99,Marmara,Desktop,5
+ORD-10686,2025-05-03,Apparel,Cap,328.04,1,0,328.04,Aegean,Mobile App,4
+ORD-10121,2025-05-05,Beauty,Sunscreen,316.71,1,0,316.71,Southeastern Anatolia,Mobile App,4
+ORD-10816,2025-05-06,Beauty,Shampoo,210.58,3,0,631.74,Central Anatolia,Desktop,4
+ORD-12368,2025-05-06,Sports & Outdoor,Yoga Mat,294.98,1,0,294.98,Marmara,Website,2
+ORD-11878,2025-05-07,Apparel,Sports Shorts,217.99,1,15,185.29,Mediterranean,Desktop,5
+ORD-10388,2025-05-07,Sports & Outdoor,Bike Lock,291.23,1,0,291.23,Southeastern Anatolia,Website,4
+ORD-12096,2025-05-07,Home & Living,Throw Blanket,264.03,1,10,237.63,Aegean,Website,1
+ORD-10881,2025-05-08,Apparel,Sports Shorts,88.04,1,0,88.04,Marmara,Mobile App,5
+ORD-10756,2025-05-09,Home & Living,Aroma Diffuser,140.91,1,10,126.82,Aegean,Mobile App,4
+ORD-10898,2025-05-09,Electronics,Phone Case,300.72,1,0,300.72,Central Anatolia,Website,5
+ORD-10970,2025-05-10,Electronics,Wireless Earbuds,209.46,1,0,209.46,Southeastern Anatolia,Mobile App,3
+ORD-10608,2025-05-11,Electronics,Bluetooth Speaker,1017.0,1,20,813.6,Eastern Anatolia,Website,5
+ORD-12226,2025-05-11,Electronics,Smart Watch,653.24,1,0,653.24,Marmara,Website,4
+ORD-10713,2025-05-12,Apparel,Sock Set,76.98,1,0,76.98,Southeastern Anatolia,Website,5
+ORD-10716,2025-05-12,Home & Living,Aroma Diffuser,196.55,1,15,167.07,Aegean,Mobile App,5
+ORD-12036,2025-05-14,Sports & Outdoor,Fitness Band,472.05,1,0,472.05,Marmara,Mobile App,5
+ORD-11422,2025-05-14,Beauty,Shampoo,149.7,1,0,149.7,Aegean,Desktop,5
+ORD-11445,2025-05-15,Beauty,Sunscreen,230.98,1,0,230.98,Eastern Anatolia,Mobile App,5
+ORD-12308,2025-05-16,Apparel,Sock Set,94.91,1,0,94.91,Mediterranean,Website,3
+ORD-10625,2025-05-17,Home & Living,Throw Blanket,342.75,1,0,342.75,Aegean,Desktop,5
+ORD-11008,2025-05-17,Beauty,Lipstick,75.25,1,20,60.2,Southeastern Anatolia,Website,5
+ORD-10967,2025-05-17,Electronics,Phone Case,921.07,1,0,921.07,Black Sea,Mobile App,5
+ORD-12276,2025-05-18,Electronics,Wireless Earbuds,1131.83,1,0,1131.83,Aegean,Desktop,5
+ORD-11607,2025-05-18,Beauty,Shampoo,93.27,1,0,93.27,Marmara,Website,5
+ORD-10258,2025-05-18,Apparel,Sports Shorts,243.28,1,0,243.28,Marmara,Website,4
+ORD-11398,2025-05-19,Home & Living,LED Desk Lamp,414.22,1,15,352.09,Aegean,Mobile App,3
+ORD-10556,2025-05-19,Sports & Outdoor,Fitness Band,287.79,2,15,489.24,Marmara,Mobile App,2
+ORD-12334,2025-05-20,Sports & Outdoor,Fitness Band,224.23,1,0,224.23,Mediterranean,Mobile App,2
+ORD-11505,2025-05-21,Home & Living,LED Desk Lamp,87.59,1,0,87.59,Southeastern Anatolia,Website,5
+ORD-10668,2025-05-21,Home & Living,LED Desk Lamp,441.13,1,0,441.13,Marmara,Mobile App,5
+ORD-11097,2025-05-21,Home & Living,Storage Box Set,150.69,1,0,150.69,Marmara,Mobile App,3
+ORD-11967,2025-05-22,Apparel,Sock Set,287.49,1,0,287.49,Southeastern Anatolia,Mobile App,5
+ORD-11784,2025-05-22,Electronics,Phone Case,167.65,1,0,167.65,Eastern Anatolia,Mobile App,5
+ORD-11658,2025-05-22,Beauty,Shampoo,70.87,1,0,70.87,Central Anatolia,Mobile App,3
+ORD-11030,2025-05-22,Apparel,Sock Set,292.78,1,0,292.78,Marmara,Mobile App,4
+ORD-10273,2025-05-22,Electronics,Phone Case,388.73,1,0,388.73,Aegean,Mobile App,4
+ORD-11061,2025-05-23,Electronics,Power Bank,678.91,2,0,1357.82,Aegean,Desktop,2
+ORD-12132,2025-05-23,Home & Living,Aroma Diffuser,324.03,1,0,324.03,Marmara,Mobile App,5
+ORD-10216,2025-05-23,Apparel,Sweatshirt,108.57,1,0,108.57,Mediterranean,Mobile App,2
+ORD-11438,2025-05-23,Apparel,Basic T-Shirt,221.54,1,0,221.54,Aegean,Mobile App,2
+ORD-11428,2025-05-24,Electronics,Wireless Earbuds,1160.3,2,0,2320.6,Black Sea,Desktop,5
+ORD-10052,2025-05-24,Electronics,Smart Watch,276.17,1,0,276.17,Marmara,Mobile App,1
+ORD-11788,2025-05-24,Electronics,Power Bank,792.77,1,0,792.77,Central Anatolia,Mobile App,5
+ORD-12002,2025-05-25,Electronics,Power Bank,531.81,1,30,372.27,Eastern Anatolia,Mobile App,3
+ORD-10082,2025-05-25,Electronics,Bluetooth Speaker,581.77,1,0,581.77,Marmara,Mobile App,2
+ORD-11633,2025-05-26,Electronics,Bluetooth Speaker,1129.17,1,0,1129.17,Marmara,Mobile App,3
+ORD-11723,2025-05-27,Apparel,Cap,67.03,1,0,67.03,Mediterranean,Website,2
+ORD-11507,2025-05-27,Apparel,Cap,310.01,2,0,620.02,Central Anatolia,Website,5
+ORD-10027,2025-05-28,Beauty,Sunscreen,142.68,1,10,128.41,Aegean,Mobile App,2
+ORD-11896,2025-05-29,Home & Living,Throw Blanket,217.29,1,0,217.29,Mediterranean,Website,5
+ORD-11347,2025-05-29,Beauty,Face Serum,173.9,1,0,173.9,Marmara,Mobile App,2
+ORD-12399,2025-05-30,Electronics,Wireless Earbuds,519.1,1,30,363.37,Marmara,Website,5
+ORD-10108,2025-05-30,Apparel,Basic T-Shirt,165.95,1,15,141.06,Marmara,Website,5
+ORD-10665,2025-05-31,Apparel,Cap,278.22,1,0,278.22,Aegean,Mobile App,5
+ORD-11013,2025-05-31,Beauty,Shampoo,88.29,1,0,88.29,Southeastern Anatolia,Website,2
+ORD-11540,2025-05-31,Beauty,Lipstick,378.04,1,0,378.04,Black Sea,Website,4
+ORD-10511,2025-05-31,Electronics,Power Bank,1007.23,1,0,1007.23,Marmara,Desktop,3
+ORD-11973,2025-06-01,Electronics,Power Bank,271.33,1,10,244.2,Central Anatolia,Mobile App,5
+ORD-12086,2025-06-01,Sports & Outdoor,Bike Lock,246.97,1,0,246.97,Eastern Anatolia,Website,5
+ORD-10299,2025-06-01,Beauty,Shampoo,237.83,1,0,237.83,Eastern Anatolia,Desktop,2
+ORD-10030,2025-06-01,Beauty,Sunscreen,362.96,2,20,580.74,Black Sea,Website,4
+ORD-11547,2025-06-01,Electronics,Smart Watch,1001.79,1,0,1001.79,Eastern Anatolia,Mobile App,4
+ORD-11888,2025-06-02,Electronics,Smart Watch,465.85,1,0,465.85,Aegean,Desktop,1
+ORD-12008,2025-06-02,Beauty,Moisturizing Cream,273.26,1,0,273.26,Central Anatolia,Mobile App,4
+ORD-10256,2025-06-03,Sports & Outdoor,Yoga Mat,244.05,1,15,207.44,Mediterranean,Website,3
+ORD-10358,2025-06-03,Beauty,Moisturizing Cream,311.39,1,15,264.68,Black Sea,Mobile App,4
+ORD-10477,2025-06-03,Electronics,Smart Watch,1020.86,1,0,1020.86,Mediterranean,Mobile App,1
+ORD-11433,2025-06-04,Electronics,Phone Case,499.74,1,0,499.74,Marmara,Website,4
+ORD-12037,2025-06-04,Beauty,Shampoo,166.52,1,10,149.87,Marmara,Mobile App,4
+ORD-11045,2025-06-04,Beauty,Sunscreen,196.7,1,0,196.7,Marmara,Mobile App,5
+ORD-10480,2025-06-05,Beauty,Lipstick,279.34,1,0,279.34,Black Sea,Website,5
+ORD-11145,2025-06-05,Electronics,Smart Watch,160.27,1,0,160.27,Black Sea,Mobile App,2
+ORD-11629,2025-06-05,Apparel,Sock Set,163.67,1,20,130.94,Marmara,Mobile App,5
+ORD-11287,2025-06-06,Apparel,Basic T-Shirt,137.4,2,0,274.8,Central Anatolia,Website,3
+ORD-10126,2025-06-06,Apparel,Cap,269.45,1,0,269.45,Mediterranean,Mobile App,5
+ORD-10203,2025-06-06,Electronics,Phone Case,1031.94,1,0,1031.94,Marmara,Website,1
+ORD-10791,2025-06-06,Apparel,Sweatshirt,79.61,1,20,63.69,Aegean,Mobile App,4
+ORD-10123,2025-06-06,Apparel,Sports Shorts,150.4,1,0,150.4,Marmara,Website,3
+ORD-12124,2025-06-07,Beauty,Sunscreen,168.01,1,30,117.61,Black Sea,Mobile App,2
+ORD-12174,2025-06-08,Sports & Outdoor,Bike Lock,353.49,1,0,353.49,Southeastern Anatolia,Mobile App,5
+ORD-11142,2025-06-08,Sports & Outdoor,Fitness Band,361.5,1,0,361.5,Marmara,Website,1
+ORD-12093,2025-06-09,Electronics,Wireless Earbuds,155.95,1,15,132.56,Southeastern Anatolia,Mobile App,4
+ORD-11094,2025-06-10,Home & Living,Throw Blanket,406.07,1,0,406.07,Southeastern Anatolia,Mobile App,5
+ORD-10038,2025-06-10,Beauty,Shampoo,125.93,1,20,100.74,Mediterranean,Website,5
+ORD-11769,2025-06-10,Sports & Outdoor,Yoga Mat,318.52,1,0,318.52,Black Sea,Mobile App,1
+ORD-10951,2025-06-10,Electronics,Smart Watch,839.39,2,0,1678.78,Eastern Anatolia,Mobile App,2
+ORD-10033,2025-06-10,Apparel,Basic T-Shirt,203.23,1,0,203.23,Mediterranean,Website,5
+ORD-10357,2025-06-11,Electronics,Phone Case,1076.02,1,0,1076.02,Marmara,Website,4
+ORD-10439,2025-06-11,Electronics,Wireless Earbuds,978.38,2,0,1956.76,Southeastern Anatolia,Mobile App,1
+ORD-10142,2025-06-11,Sports & Outdoor,Water Bottle,102.95,1,0,102.95,Mediterranean,Mobile App,5
+ORD-10360,2025-06-12,Beauty,Face Serum,184.82,1,0,184.82,Mediterranean,Website,5
+ORD-10421,2025-06-12,Apparel,Sock Set,91.69,2,0,183.38,Black Sea,Website,5
+ORD-10942,2025-06-13,Apparel,Sweatshirt,261.22,1,10,235.1,Central Anatolia,Mobile App,4
+ORD-10682,2025-06-13,Home & Living,Throw Blanket,189.49,1,20,151.59,Marmara,Website,4
+ORD-11317,2025-06-13,Electronics,Phone Case,828.05,1,10,745.24,Central Anatolia,Mobile App,4
+ORD-11718,2025-06-14,Sports & Outdoor,Fitness Band,134.24,1,0,134.24,Central Anatolia,Website,4
+ORD-10573,2025-06-14,Electronics,Wireless Earbuds,185.36,2,0,370.72,Central Anatolia,Mobile App,4
+ORD-10671,2025-06-14,Electronics,Bluetooth Speaker,186.69,3,0,560.07,Aegean,Mobile App,5
+ORD-10144,2025-06-14,Electronics,Bluetooth Speaker,576.71,1,0,576.71,Central Anatolia,Website,3
+ORD-11121,2025-06-14,Electronics,Bluetooth Speaker,753.82,1,0,753.82,Central Anatolia,Website,4
+ORD-11457,2025-06-15,Electronics,Wireless Earbuds,453.65,2,10,816.57,Aegean,Website,4
+ORD-10678,2025-06-15,Electronics,Power Bank,169.31,1,20,135.45,Aegean,Website,4
+ORD-10985,2025-06-15,Beauty,Moisturizing Cream,266.07,1,0,266.07,Marmara,Mobile App,5
+ORD-12083,2025-06-16,Apparel,Sock Set,233.39,1,0,233.39,Aegean,Website,5
+ORD-10509,2025-06-17,Beauty,Face Serum,236.58,1,15,201.09,Marmara,Website,4
+ORD-10712,2025-06-18,Apparel,Sweatshirt,136.12,1,0,136.12,Southeastern Anatolia,Mobile App,5
+ORD-10919,2025-06-18,Beauty,Shampoo,370.52,1,0,370.52,Mediterranean,Website,5
+ORD-12385,2025-06-19,Apparel,Sports Shorts,153.08,1,0,153.08,Southeastern Anatolia,Mobile App,5
+ORD-12328,2025-06-19,Electronics,Wireless Earbuds,1105.0,2,0,2210.0,Southeastern Anatolia,Mobile App,5
+ORD-11996,2025-06-20,Electronics,Phone Case,603.3,1,0,603.3,Marmara,Mobile App,5
+ORD-10022,2025-06-21,Beauty,Moisturizing Cream,125.54,1,0,125.54,Aegean,Mobile App,5
+ORD-11728,2025-06-21,Home & Living,Candle Set,106.33,2,15,180.76,Black Sea,Website,4
+ORD-12017,2025-06-21,Apparel,Cap,337.62,3,0,1012.86,Marmara,Mobile App,5
+ORD-10254,2025-06-21,Home & Living,Aroma Diffuser,314.27,2,0,628.54,Black Sea,Website,5
+ORD-10887,2025-06-21,Electronics,Power Bank,468.38,3,20,1124.11,Aegean,Website,2
+ORD-11960,2025-06-21,Sports & Outdoor,Yoga Mat,150.89,1,0,150.89,Marmara,Mobile App,4
+ORD-10376,2025-06-21,Electronics,Phone Case,248.55,2,0,497.1,Black Sea,Website,4
+ORD-12014,2025-06-21,Electronics,Wireless Earbuds,644.87,1,10,580.38,Eastern Anatolia,Desktop,4
+ORD-12277,2025-06-22,Beauty,Face Serum,316.76,2,10,570.17,Marmara,Website,5
+ORD-10746,2025-06-22,Sports & Outdoor,Backpack,170.96,2,15,290.63,Southeastern Anatolia,Desktop,5
+ORD-11253,2025-06-22,Beauty,Shampoo,107.24,1,10,96.52,Marmara,Mobile App,3
+ORD-11964,2025-06-23,Electronics,Phone Case,615.83,1,0,615.83,Black Sea,Mobile App,4
+ORD-11216,2025-06-24,Home & Living,Candle Set,245.74,1,15,208.88,Marmara,Mobile App,5
+ORD-12275,2025-06-24,Beauty,Sunscreen,311.08,1,0,311.08,Aegean,Website,5
+ORD-11429,2025-06-24,Home & Living,Storage Box Set,85.65,1,0,85.65,Aegean,Mobile App,2
+ORD-10405,2025-06-25,Electronics,Phone Case,1187.44,1,0,1187.44,Marmara,Mobile App,5
+ORD-10166,2025-06-25,Beauty,Sunscreen,209.18,1,0,209.18,Marmara,Mobile App,4
+ORD-12341,2025-06-25,Apparel,Sock Set,150.63,1,0,150.63,Marmara,Mobile App,4
+ORD-10623,2025-06-26,Beauty,Moisturizing Cream,387.91,1,0,387.91,Mediterranean,Website,1
+ORD-10825,2025-06-26,Home & Living,Throw Blanket,348.29,1,10,313.46,Eastern Anatolia,Website,4
+ORD-10518,2025-06-26,Home & Living,Storage Box Set,177.78,1,0,177.78,Marmara,Mobile App,4
+ORD-11225,2025-06-27,Apparel,Basic T-Shirt,188.14,1,0,188.14,Marmara,Website,1
+ORD-11908,2025-06-27,Beauty,Shampoo,239.1,1,10,215.19,Mediterranean,Desktop,5
+ORD-12196,2025-06-27,Beauty,Lipstick,164.35,1,0,164.35,Marmara,Mobile App,2
+ORD-11139,2025-06-27,Sports & Outdoor,Yoga Mat,133.56,2,0,267.12,Aegean,Mobile App,4
+ORD-10239,2025-06-27,Home & Living,Storage Box Set,276.93,1,0,276.93,Marmara,Desktop,3
+ORD-10594,2025-06-28,Sports & Outdoor,Yoga Mat,547.66,1,30,383.36,Aegean,Website,5
+ORD-10732,2025-06-28,Electronics,Power Bank,224.71,1,0,224.71,Southeastern Anatolia,Website,1
+ORD-10905,2025-06-28,Apparel,Sweatshirt,304.07,1,10,273.66,Aegean,Mobile App,5
+ORD-10017,2025-06-28,Home & Living,LED Desk Lamp,315.47,1,0,315.47,Southeastern Anatolia,Mobile App,5
+ORD-11141,2025-06-28,Sports & Outdoor,Bike Lock,256.77,1,0,256.77,Southeastern Anatolia,Website,5
+ORD-11073,2025-06-28,Electronics,Power Bank,301.2,3,0,903.6,Aegean,Mobile App,4
+ORD-11795,2025-06-29,Apparel,Sweatshirt,290.75,1,0,290.75,Eastern Anatolia,Website,3
+ORD-12004,2025-06-29,Sports & Outdoor,Backpack,352.93,1,0,352.93,Mediterranean,Mobile App,2
+ORD-12243,2025-06-29,Electronics,Smart Watch,1137.68,1,0,1137.68,Marmara,Mobile App,2
+ORD-11242,2025-06-30,Home & Living,Storage Box Set,117.23,1,0,117.23,Mediterranean,Mobile App,4
+ORD-10863,2025-06-30,Sports & Outdoor,Backpack,447.41,1,20,357.93,Marmara,Website,3
+ORD-11990,2025-06-30,Electronics,Phone Case,932.39,1,0,932.39,Mediterranean,Mobile App,5
+ORD-12135,2025-07-01,Beauty,Lipstick,156.98,1,10,141.28,Eastern Anatolia,Website,2
+ORD-10864,2025-07-01,Electronics,Bluetooth Speaker,469.71,3,0,1409.13,Mediterranean,Desktop,5
+ORD-10326,2025-07-02,Home & Living,Aroma Diffuser,217.43,1,10,195.69,Mediterranean,Website,5
+ORD-10766,2025-07-02,Sports & Outdoor,Backpack,432.57,1,0,432.57,Marmara,Mobile App,5
+ORD-11555,2025-07-02,Apparel,Sweatshirt,199.57,1,0,199.57,Marmara,Desktop,4
+ORD-10988,2025-07-02,Home & Living,Candle Set,140.89,1,20,112.71,Mediterranean,Mobile App,4
+ORD-11265,2025-07-03,Electronics,Power Bank,933.63,1,0,933.63,Central Anatolia,Website,2
+ORD-10640,2025-07-03,Electronics,Smart Watch,202.87,1,0,202.87,Aegean,Mobile App,4
+ORD-12251,2025-07-04,Home & Living,LED Desk Lamp,171.91,1,0,171.91,Central Anatolia,Desktop,4
+ORD-11963,2025-07-04,Beauty,Shampoo,110.54,1,0,110.54,Marmara,Mobile App,4
+ORD-12055,2025-07-04,Beauty,Lipstick,107.47,1,0,107.47,Mediterranean,Website,5
+ORD-12171,2025-07-05,Sports & Outdoor,Backpack,494.52,1,0,494.52,Eastern Anatolia,Mobile App,4
+ORD-11227,2025-07-05,Beauty,Shampoo,102.29,1,0,102.29,Marmara,Mobile App,5
+ORD-11424,2025-07-05,Electronics,Bluetooth Speaker,272.72,3,0,818.16,Marmara,Mobile App,4
+ORD-11197,2025-07-05,Electronics,Power Bank,657.16,2,0,1314.32,Mediterranean,Mobile App,4
+ORD-12390,2025-07-06,Apparel,Cap,112.73,1,0,112.73,Central Anatolia,Mobile App,3
+ORD-11249,2025-07-06,Apparel,Cap,100.09,1,0,100.09,Aegean,Website,4
+ORD-10744,2025-07-06,Electronics,Power Bank,697.98,1,0,697.98,Eastern Anatolia,Website,4
+ORD-10952,2025-07-07,Apparel,Basic T-Shirt,148.08,1,0,148.08,Marmara,Mobile App,3
+ORD-12169,2025-07-08,Apparel,Sock Set,89.33,1,20,71.46,Aegean,Mobile App,5
+ORD-12258,2025-07-08,Apparel,Basic T-Shirt,136.09,1,0,136.09,Aegean,Mobile App,5
+ORD-11251,2025-07-08,Electronics,Phone Case,435.29,1,0,435.29,Central Anatolia,Website,1
+ORD-10010,2025-07-09,Apparel,Sock Set,172.72,1,10,155.45,Aegean,Mobile App,4
+ORD-12054,2025-07-09,Home & Living,Candle Set,203.65,1,0,203.65,Central Anatolia,Website,5
+ORD-11036,2025-07-09,Beauty,Lipstick,85.58,1,20,68.46,Marmara,Mobile App,4
+ORD-11174,2025-07-09,Electronics,Smart Watch,872.63,1,10,785.37,Marmara,Mobile App,3
+ORD-10926,2025-07-10,Beauty,Lipstick,342.71,1,0,342.71,Marmara,Mobile App,4
+ORD-11040,2025-07-10,Home & Living,LED Desk Lamp,93.77,2,0,187.54,Eastern Anatolia,Website,4
+ORD-11374,2025-07-10,Apparel,Basic T-Shirt,286.56,1,0,286.56,Mediterranean,Mobile App,2
+ORD-10761,2025-07-10,Home & Living,Storage Box Set,412.03,1,0,412.03,Marmara,Website,4
+ORD-11615,2025-07-10,Electronics,Smart Watch,548.9,1,0,548.9,Eastern Anatolia,Website,5
+ORD-10835,2025-07-11,Apparel,Cap,91.36,2,0,182.72,Aegean,Mobile App,4
+ORD-10243,2025-07-11,Apparel,Sock Set,343.38,1,15,291.87,Black Sea,Website,3
+ORD-10586,2025-07-12,Apparel,Sock Set,264.49,1,0,264.49,Black Sea,Mobile App,5
+ORD-11933,2025-07-12,Electronics,Phone Case,1162.55,1,0,1162.55,Marmara,Mobile App,3
+ORD-10200,2025-07-12,Beauty,Face Serum,94.65,2,30,132.51,Mediterranean,Mobile App,4
+ORD-12256,2025-07-12,Electronics,Bluetooth Speaker,709.14,1,0,709.14,Marmara,Mobile App,5
+ORD-10674,2025-07-13,Home & Living,LED Desk Lamp,288.77,2,0,577.54,Southeastern Anatolia,Website,3
+ORD-10426,2025-07-13,Sports & Outdoor,Fitness Band,293.54,1,0,293.54,Mediterranean,Mobile App,5
+ORD-12203,2025-07-13,Home & Living,Throw Blanket,251.73,1,15,213.97,Central Anatolia,Mobile App,5
+ORD-11808,2025-07-15,Sports & Outdoor,Fitness Band,145.99,1,0,145.99,Aegean,Mobile App,4
+ORD-12397,2025-07-15,Beauty,Moisturizing Cream,183.46,1,0,183.46,Marmara,Website,5
+ORD-12048,2025-07-16,Apparel,Sports Shorts,313.18,1,0,313.18,Aegean,Mobile App,1
+ORD-11333,2025-07-16,Electronics,Power Bank,1176.29,1,0,1176.29,Marmara,Mobile App,1
+ORD-12348,2025-07-16,Apparel,Sports Shorts,148.68,2,0,297.36,Mediterranean,Website,5
+ORD-10893,2025-07-16,Electronics,Power Bank,1037.26,1,0,1037.26,Marmara,Mobile App,5
+ORD-11133,2025-07-17,Home & Living,Candle Set,84.74,1,0,84.74,Marmara,Mobile App,2
+ORD-11033,2025-07-18,Electronics,Power Bank,1116.04,1,0,1116.04,Eastern Anatolia,Mobile App,5
+ORD-11862,2025-07-18,Apparel,Sweatshirt,246.47,1,30,172.53,Mediterranean,Mobile App,4
+ORD-10687,2025-07-18,Sports & Outdoor,Bike Lock,504.85,2,0,1009.7,Central Anatolia,Mobile App,2
+ORD-12314,2025-07-18,Sports & Outdoor,Bike Lock,135.89,1,30,95.12,Central Anatolia,Mobile App,2
+ORD-11819,2025-07-18,Electronics,Power Bank,960.4,2,0,1920.8,Marmara,Mobile App,4
+ORD-12329,2025-07-18,Apparel,Basic T-Shirt,152.47,3,0,457.41,Mediterranean,Mobile App,5
+ORD-11912,2025-07-19,Electronics,Power Bank,461.55,2,0,923.1,Central Anatolia,Mobile App,5
+ORD-12183,2025-07-20,Apparel,Sock Set,84.35,1,0,84.35,Eastern Anatolia,Website,4
+ORD-12298,2025-07-21,Apparel,Sock Set,163.36,1,0,163.36,Aegean,Mobile App,5
+ORD-11122,2025-07-21,Electronics,Bluetooth Speaker,319.03,1,20,255.22,Marmara,Mobile App,2
+ORD-11794,2025-07-22,Sports & Outdoor,Backpack,511.59,2,0,1023.18,Mediterranean,Website,5
+ORD-11206,2025-07-22,Beauty,Sunscreen,103.38,1,0,103.38,Eastern Anatolia,Mobile App,4
+ORD-10025,2025-07-22,Sports & Outdoor,Backpack,213.5,2,0,427.0,Eastern Anatolia,Mobile App,3
+ORD-12239,2025-07-22,Sports & Outdoor,Fitness Band,127.07,1,0,127.07,Black Sea,Desktop,4
+ORD-11853,2025-07-22,Beauty,Shampoo,321.96,1,0,321.96,Aegean,Mobile App,5
+ORD-10818,2025-07-22,Beauty,Moisturizing Cream,271.24,1,0,271.24,Marmara,Mobile App,5
+ORD-11066,2025-07-23,Beauty,Moisturizing Cream,234.4,1,0,234.4,Black Sea,Website,2
+ORD-10975,2025-07-23,Apparel,Sweatshirt,235.25,1,0,235.25,Marmara,Mobile App,5
+ORD-10436,2025-07-23,Beauty,Face Serum,103.91,1,10,93.52,Mediterranean,Website,2
+ORD-10902,2025-07-23,Sports & Outdoor,Yoga Mat,178.24,1,0,178.24,Marmara,Mobile App,3
+ORD-12123,2025-07-23,Beauty,Lipstick,286.12,1,30,200.28,Mediterranean,Desktop,5
+ORD-10337,2025-07-24,Home & Living,Aroma Diffuser,137.86,2,0,275.72,Central Anatolia,Website,5
+ORD-10495,2025-07-25,Beauty,Sunscreen,181.2,3,0,543.6,Marmara,Website,4
+ORD-11425,2025-07-25,Electronics,Power Bank,500.51,1,0,500.51,Marmara,Website,5
+ORD-11091,2025-07-25,Electronics,Smart Watch,731.67,1,0,731.67,Southeastern Anatolia,Website,4
+ORD-10688,2025-07-25,Apparel,Sports Shorts,60.01,1,0,60.01,Marmara,Mobile App,4
+ORD-10878,2025-07-25,Apparel,Cap,146.38,1,0,146.38,Marmara,Mobile App,5
+ORD-12225,2025-07-26,Beauty,Shampoo,256.63,2,0,513.26,Black Sea,Desktop,5
+ORD-11325,2025-07-26,Apparel,Cap,151.81,1,0,151.81,Central Anatolia,Website,4
+ORD-10537,2025-07-26,Electronics,Power Bank,898.61,1,0,898.61,Southeastern Anatolia,Mobile App,4
+ORD-11890,2025-07-26,Electronics,Phone Case,798.94,1,0,798.94,Southeastern Anatolia,Website,4
+ORD-11720,2025-07-27,Electronics,Wireless Earbuds,319.49,1,10,287.54,Black Sea,Mobile App,4
+ORD-10642,2025-07-27,Beauty,Sunscreen,335.89,1,0,335.89,Marmara,Mobile App,4
+ORD-10563,2025-07-28,Apparel,Sock Set,120.1,1,0,120.1,Mediterranean,Mobile App,5
+ORD-12240,2025-07-28,Home & Living,Candle Set,268.37,1,10,241.53,Central Anatolia,Desktop,4
+ORD-10211,2025-07-28,Home & Living,Candle Set,106.81,1,0,106.81,Central Anatolia,Mobile App,4
+ORD-10316,2025-07-28,Beauty,Lipstick,317.35,1,0,317.35,Mediterranean,Website,4
+ORD-10759,2025-07-28,Home & Living,LED Desk Lamp,136.9,2,0,273.8,Central Anatolia,Website,4
+ORD-10381,2025-07-29,Sports & Outdoor,Yoga Mat,330.97,1,0,330.97,Marmara,Desktop,5
+ORD-11163,2025-07-29,Electronics,Power Bank,628.41,1,10,565.57,Marmara,Website,5
+ORD-11854,2025-07-29,Apparel,Sweatshirt,278.52,1,0,278.52,Marmara,Website,4
+ORD-11886,2025-07-29,Apparel,Cap,232.69,1,0,232.69,Marmara,Mobile App,5
+ORD-10512,2025-07-29,Sports & Outdoor,Fitness Band,173.04,1,0,173.04,Aegean,Mobile App,5
+ORD-11039,2025-07-29,Apparel,Sports Shorts,114.38,1,0,114.38,Central Anatolia,Website,5
+ORD-12150,2025-07-31,Electronics,Phone Case,448.34,1,0,448.34,Mediterranean,Mobile App,5
+ORD-10245,2025-08-01,Electronics,Wireless Earbuds,534.78,1,0,534.78,Aegean,Mobile App,5
+ORD-10544,2025-08-02,Beauty,Face Serum,221.53,1,0,221.53,Aegean,Mobile App,4
+ORD-10348,2025-08-02,Beauty,Lipstick,111.66,1,0,111.66,Marmara,Desktop,4
+ORD-10498,2025-08-02,Electronics,Smart Watch,781.63,1,0,781.63,Mediterranean,Mobile App,4
+ORD-10461,2025-08-02,Beauty,Shampoo,366.82,1,20,293.46,Central Anatolia,Mobile App,5
+ORD-12108,2025-08-03,Home & Living,Aroma Diffuser,318.99,3,0,956.97,Southeastern Anatolia,Website,5
+ORD-12077,2025-08-03,Apparel,Sock Set,347.17,1,0,347.17,Aegean,Website,4
+ORD-12347,2025-08-03,Electronics,Phone Case,582.1,1,0,582.1,Marmara,Mobile App,4
+ORD-11684,2025-08-03,Electronics,Power Bank,540.86,1,0,540.86,Aegean,Website,5
+ORD-10001,2025-08-03,Apparel,Sweatshirt,311.19,1,0,311.19,Marmara,Desktop,3
+ORD-11280,2025-08-03,Beauty,Face Serum,229.56,1,10,206.6,Marmara,Website,4
+ORD-11312,2025-08-05,Electronics,Wireless Earbuds,691.74,1,20,553.39,Southeastern Anatolia,Website,5
+ORD-10064,2025-08-05,Sports & Outdoor,Backpack,546.72,1,0,546.72,Southeastern Anatolia,Mobile App,5
+ORD-11600,2025-08-06,Home & Living,Storage Box Set,384.22,1,0,384.22,Central Anatolia,Website,5
+ORD-10691,2025-08-07,Apparel,Sock Set,87.54,1,0,87.54,Marmara,Desktop,4
+ORD-12127,2025-08-07,Apparel,Sweatshirt,103.34,1,0,103.34,Mediterranean,Mobile App,5
+ORD-10354,2025-08-08,Electronics,Wireless Earbuds,343.44,2,0,686.88,Marmara,Mobile App,4
+ORD-11498,2025-08-08,Electronics,Bluetooth Speaker,626.94,1,10,564.25,Black Sea,Website,3
+ORD-12223,2025-08-08,Beauty,Face Serum,391.96,2,10,705.53,Marmara,Website,5
+ORD-11882,2025-08-08,Beauty,Shampoo,278.05,1,0,278.05,Eastern Anatolia,Website,5
+ORD-11631,2025-08-09,Apparel,Sports Shorts,160.33,1,0,160.33,Aegean,Mobile App,5
+ORD-12142,2025-08-09,Electronics,Wireless Earbuds,900.43,1,30,630.3,Marmara,Mobile App,5
+ORD-11262,2025-08-11,Beauty,Face Serum,292.96,1,0,292.96,Central Anatolia,Website,5
+ORD-11458,2025-08-12,Beauty,Shampoo,157.46,1,0,157.46,Aegean,Mobile App,4
+ORD-10309,2025-08-12,Beauty,Lipstick,249.86,3,20,599.66,Marmara,Mobile App,5
+ORD-10197,2025-08-12,Electronics,Smart Watch,492.76,1,0,492.76,Aegean,Mobile App,3
+ORD-10080,2025-08-12,Sports & Outdoor,Water Bottle,291.21,1,0,291.21,Marmara,Website,5
+ORD-11069,2025-08-14,Apparel,Sports Shorts,186.46,1,20,149.17,Mediterranean,Mobile App,4
+ORD-10304,2025-08-14,Beauty,Lipstick,181.63,2,0,363.26,Aegean,Mobile App,4
+ORD-10016,2025-08-15,Electronics,Bluetooth Speaker,898.91,1,0,898.91,Black Sea,Mobile App,4
+ORD-11310,2025-08-15,Apparel,Sock Set,308.19,1,0,308.19,Marmara,Website,4
+ORD-12294,2025-08-16,Beauty,Moisturizing Cream,250.75,1,15,213.14,Aegean,Mobile App,5
+ORD-10419,2025-08-16,Apparel,Sweatshirt,118.93,1,0,118.93,Central Anatolia,Mobile App,4
+ORD-12261,2025-08-16,Sports & Outdoor,Water Bottle,381.43,1,0,381.43,Black Sea,Mobile App,4
+ORD-10454,2025-08-16,Electronics,Bluetooth Speaker,567.53,1,0,567.53,Marmara,Mobile App,5
+ORD-10843,2025-08-16,Home & Living,Candle Set,377.91,1,0,377.91,Aegean,Website,4
+ORD-12365,2025-08-17,Beauty,Sunscreen,100.85,1,0,100.85,Southeastern Anatolia,Mobile App,4
+ORD-10078,2025-08-17,Sports & Outdoor,Backpack,444.66,1,0,444.66,Marmara,Mobile App,1
+ORD-11502,2025-08-18,Electronics,Power Bank,600.28,1,0,600.28,Aegean,Mobile App,3
+ORD-10575,2025-08-18,Home & Living,Candle Set,356.76,2,0,713.52,Eastern Anatolia,Website,2
+ORD-12330,2025-08-18,Electronics,Bluetooth Speaker,352.39,1,0,352.39,Black Sea,Mobile App,4
+ORD-11273,2025-08-19,Home & Living,LED Desk Lamp,311.17,1,0,311.17,Marmara,Mobile App,2
+ORD-12272,2025-08-20,Apparel,Sweatshirt,62.1,3,0,186.3,Aegean,Mobile App,5
+ORD-10910,2025-08-20,Home & Living,Aroma Diffuser,315.18,3,10,850.99,Marmara,Mobile App,3
+ORD-11245,2025-08-21,Beauty,Shampoo,284.77,1,0,284.77,Aegean,Mobile App,4
+ORD-11719,2025-08-22,Electronics,Smart Watch,515.41,1,10,463.87,Aegean,Mobile App,4
+ORD-11149,2025-08-24,Apparel,Sports Shorts,126.98,2,15,215.87,Central Anatolia,Mobile App,1
+ORD-10210,2025-08-24,Electronics,Wireless Earbuds,736.33,1,0,736.33,Mediterranean,Mobile App,4
+ORD-10107,2025-08-24,Apparel,Basic T-Shirt,142.3,1,0,142.3,Central Anatolia,Mobile App,1
+ORD-11635,2025-08-24,Electronics,Bluetooth Speaker,611.17,2,0,1222.34,Marmara,Website,5
+ORD-10003,2025-08-24,Apparel,Cap,212.18,1,0,212.18,Eastern Anatolia,Mobile App,5
+ORD-10636,2025-08-25,Beauty,Shampoo,189.31,1,0,189.31,Marmara,Website,3
+ORD-11279,2025-08-25,Electronics,Smart Watch,734.86,2,30,1028.8,Marmara,Mobile App,5
+ORD-12068,2025-08-25,Sports & Outdoor,Yoga Mat,478.97,1,0,478.97,Southeastern Anatolia,Website,5
+ORD-11623,2025-08-26,Apparel,Basic T-Shirt,88.92,1,0,88.92,Marmara,Mobile App,5
+ORD-11678,2025-08-26,Sports & Outdoor,Backpack,492.51,1,0,492.51,Eastern Anatolia,Website,5
+ORD-10624,2025-08-26,Home & Living,Storage Box Set,243.84,1,0,243.84,Black Sea,Desktop,5
+ORD-11975,2025-08-26,Electronics,Bluetooth Speaker,255.18,1,0,255.18,Marmara,Website,5
+ORD-10648,2025-08-27,Apparel,Cap,221.34,1,15,188.14,Marmara,Mobile App,4
+ORD-10701,2025-08-28,Electronics,Bluetooth Speaker,764.87,1,0,764.87,Central Anatolia,Website,5
+ORD-12221,2025-08-29,Home & Living,Aroma Diffuser,281.37,2,0,562.74,Black Sea,Website,3
+ORD-11851,2025-08-29,Apparel,Sweatshirt,97.36,2,0,194.72,Southeastern Anatolia,Desktop,5
+ORD-12001,2025-08-29,Apparel,Cap,347.68,1,0,347.68,Southeastern Anatolia,Mobile App,4
+ORD-11928,2025-08-30,Beauty,Face Serum,295.88,1,0,295.88,Central Anatolia,Mobile App,3
+ORD-11446,2025-08-30,Electronics,Bluetooth Speaker,861.49,1,0,861.49,Marmara,Mobile App,3
+ORD-10984,2025-08-30,Electronics,Smart Watch,1107.31,1,0,1107.31,Aegean,Mobile App,5
+ORD-10109,2025-08-31,Beauty,Sunscreen,300.0,3,15,765.0,Central Anatolia,Desktop,5
+ORD-12305,2025-08-31,Apparel,Cap,98.73,1,0,98.73,Marmara,Mobile App,5
+ORD-11246,2025-09-01,Beauty,Lipstick,154.84,1,0,154.84,Southeastern Anatolia,Mobile App,5
+ORD-11777,2025-09-01,Sports & Outdoor,Yoga Mat,188.71,1,0,188.71,Marmara,Website,4
+ORD-11392,2025-09-01,Sports & Outdoor,Water Bottle,598.01,1,0,598.01,Marmara,Mobile App,5
+ORD-10714,2025-09-01,Beauty,Moisturizing Cream,256.73,2,0,513.46,Marmara,Mobile App,5
+ORD-10997,2025-09-01,Beauty,Moisturizing Cream,338.52,1,0,338.52,Eastern Anatolia,Mobile App,2
+ORD-10644,2025-09-02,Home & Living,Aroma Diffuser,86.2,1,0,86.2,Aegean,Website,2
+ORD-11821,2025-09-02,Electronics,Phone Case,184.08,1,0,184.08,Marmara,Mobile App,5
+ORD-11840,2025-09-02,Beauty,Face Serum,291.58,1,0,291.58,Mediterranean,Website,5
+ORD-12148,2025-09-02,Beauty,Shampoo,310.51,1,0,310.51,Marmara,Mobile App,2
+ORD-10408,2025-09-02,Home & Living,Candle Set,413.03,1,20,330.42,Marmara,Website,4
+ORD-10649,2025-09-03,Beauty,Sunscreen,389.66,1,0,389.66,Black Sea,Mobile App,4
+ORD-10417,2025-09-03,Apparel,Sock Set,289.25,1,10,260.32,Marmara,Website,2
+ORD-11160,2025-09-03,Electronics,Wireless Earbuds,325.84,1,0,325.84,Marmara,Website,4
+ORD-11434,2025-09-03,Apparel,Sweatshirt,272.67,1,0,272.67,Southeastern Anatolia,Mobile App,5
+ORD-11974,2025-09-04,Sports & Outdoor,Water Bottle,446.58,1,15,379.59,Mediterranean,Website,3
+ORD-10847,2025-09-05,Apparel,Cap,141.59,1,0,141.59,Black Sea,Website,4
+ORD-10528,2025-09-05,Home & Living,Aroma Diffuser,282.34,1,0,282.34,Marmara,Website,3
+ORD-11672,2025-09-06,Beauty,Lipstick,114.82,1,10,103.34,Eastern Anatolia,Mobile App,5
+ORD-10996,2025-09-06,Sports & Outdoor,Bike Lock,520.53,1,0,520.53,Marmara,Mobile App,4
+ORD-12222,2025-09-07,Sports & Outdoor,Backpack,336.84,1,0,336.84,Marmara,Mobile App,1
+ORD-10084,2025-09-08,Electronics,Smart Watch,177.69,1,10,159.92,Eastern Anatolia,Mobile App,4
+ORD-11711,2025-09-08,Apparel,Sweatshirt,324.55,2,0,649.1,Mediterranean,Mobile App,1
+ORD-12154,2025-09-08,Electronics,Wireless Earbuds,930.96,1,0,930.96,Central Anatolia,Mobile App,2
+ORD-10870,2025-09-08,Apparel,Basic T-Shirt,229.16,2,0,458.32,Central Anatolia,Website,5
+ORD-10236,2025-09-08,Beauty,Lipstick,159.02,1,0,159.02,Southeastern Anatolia,Mobile App,5
+ORD-11945,2025-09-08,Electronics,Power Bank,649.06,1,0,649.06,Eastern Anatolia,Mobile App,3
+ORD-11380,2025-09-10,Sports & Outdoor,Yoga Mat,258.46,1,0,258.46,Mediterranean,Mobile App,5
+ORD-10833,2025-09-11,Electronics,Wireless Earbuds,925.08,2,20,1480.13,Central Anatolia,Website,3
+ORD-12387,2025-09-11,Beauty,Face Serum,378.22,1,0,378.22,Mediterranean,Website,5
+ORD-10143,2025-09-12,Electronics,Bluetooth Speaker,259.31,1,0,259.31,Mediterranean,Mobile App,5
+ORD-11734,2025-09-13,Home & Living,Aroma Diffuser,269.86,1,0,269.86,Marmara,Website,4
+ORD-10609,2025-09-13,Home & Living,Storage Box Set,286.01,2,10,514.82,Marmara,Website,5
+ORD-11481,2025-09-14,Electronics,Phone Case,424.08,1,15,360.47,Black Sea,Mobile App,5
+ORD-10133,2025-09-14,Sports & Outdoor,Fitness Band,592.27,2,0,1184.54,Southeastern Anatolia,Website,4
+ORD-11994,2025-09-14,Home & Living,Throw Blanket,140.04,2,0,280.08,Southeastern Anatolia,Website,5
+ORD-10206,2025-09-14,Home & Living,Storage Box Set,348.04,1,0,348.04,Southeastern Anatolia,Website,4
+ORD-10855,2025-09-15,Beauty,Lipstick,200.05,2,0,400.1,Marmara,Website,3
+ORD-10994,2025-09-15,Sports & Outdoor,Fitness Band,598.97,2,0,1197.94,Eastern Anatolia,Website,3
+ORD-11938,2025-09-15,Beauty,Moisturizing Cream,195.59,1,0,195.59,Aegean,Mobile App,4
+ORD-12358,2025-09-15,Apparel,Sports Shorts,306.13,1,0,306.13,Southeastern Anatolia,Mobile App,3
+ORD-11899,2025-09-15,Home & Living,Candle Set,324.44,1,10,292.0,Marmara,Mobile App,5
+ORD-11506,2025-09-15,Electronics,Smart Watch,179.24,2,0,358.48,Black Sea,Mobile App,1
+ORD-11612,2025-09-15,Electronics,Bluetooth Speaker,704.01,1,20,563.21,Central Anatolia,Website,5
+ORD-11609,2025-09-16,Electronics,Smart Watch,737.89,1,0,737.89,Aegean,Mobile App,4
+ORD-11365,2025-09-16,Electronics,Phone Case,350.6,1,0,350.6,Black Sea,Desktop,5
+ORD-10113,2025-09-16,Sports & Outdoor,Bike Lock,261.67,1,0,261.67,Eastern Anatolia,Mobile App,3
+ORD-11028,2025-09-17,Beauty,Shampoo,218.52,1,0,218.52,Central Anatolia,Mobile App,4
+ORD-10175,2025-09-17,Electronics,Power Bank,1139.87,1,0,1139.87,Central Anatolia,Mobile App,5
+ORD-10334,2025-09-17,Beauty,Moisturizing Cream,368.29,2,10,662.92,Marmara,Mobile App,5
+ORD-11387,2025-09-20,Beauty,Moisturizing Cream,182.82,1,0,182.82,Eastern Anatolia,Website,4
+ORD-12074,2025-09-20,Sports & Outdoor,Water Bottle,526.36,2,0,1052.72,Marmara,Mobile App,5
+ORD-11156,2025-09-21,Electronics,Bluetooth Speaker,641.55,2,0,1283.1,Aegean,Mobile App,5
+ORD-10660,2025-09-23,Apparel,Sweatshirt,66.88,2,30,93.63,Marmara,Mobile App,3
+ORD-11932,2025-09-23,Home & Living,LED Desk Lamp,221.73,2,0,443.46,Eastern Anatolia,Desktop,5
+ORD-10827,2025-09-23,Home & Living,Aroma Diffuser,223.36,1,0,223.36,Central Anatolia,Mobile App,4
+ORD-11314,2025-09-24,Beauty,Sunscreen,255.03,1,0,255.03,Aegean,Mobile App,2
+ORD-11276,2025-09-25,Electronics,Phone Case,875.15,1,0,875.15,Southeastern Anatolia,Mobile App,2
+ORD-10740,2025-09-26,Home & Living,Candle Set,98.86,1,0,98.86,Central Anatolia,Mobile App,5
+ORD-10597,2025-09-28,Sports & Outdoor,Backpack,586.27,1,20,469.02,Aegean,Mobile App,3
+ORD-10823,2025-09-28,Electronics,Bluetooth Speaker,1066.26,1,0,1066.26,Mediterranean,Mobile App,4
+ORD-11892,2025-09-28,Apparel,Sports Shorts,263.05,2,0,526.1,Eastern Anatolia,Mobile App,2
+ORD-11523,2025-09-29,Apparel,Sock Set,336.01,1,0,336.01,Central Anatolia,Mobile App,5
+ORD-10362,2025-09-29,Apparel,Sock Set,151.33,1,0,151.33,Marmara,Website,1
+ORD-10611,2025-09-30,Electronics,Wireless Earbuds,398.94,2,20,638.3,Central Anatolia,Desktop,3
+ORD-11563,2025-09-30,Electronics,Bluetooth Speaker,359.87,1,10,323.88,Central Anatolia,Mobile App,4
+ORD-10105,2025-09-30,Electronics,Wireless Earbuds,493.87,1,15,419.79,Central Anatolia,Website,3
+ORD-11462,2025-10-02,Apparel,Sports Shorts,204.41,1,0,204.41,Mediterranean,Mobile App,5
+ORD-11154,2025-10-02,Apparel,Sweatshirt,189.25,1,0,189.25,Aegean,Website,5
+ORD-11739,2025-10-02,Sports & Outdoor,Fitness Band,455.44,1,0,455.44,Black Sea,Mobile App,1
+ORD-10112,2025-10-02,Electronics,Power Bank,923.06,1,0,923.06,Mediterranean,Mobile App,4
+ORD-12202,2025-10-04,Beauty,Face Serum,125.57,1,0,125.57,Central Anatolia,Mobile App,2
+ORD-11802,2025-10-04,Electronics,Power Bank,621.72,1,15,528.46,Marmara,Mobile App,5
+ORD-11443,2025-10-04,Electronics,Wireless Earbuds,1192.47,1,0,1192.47,Marmara,Mobile App,4
+ORD-11175,2025-10-06,Home & Living,Storage Box Set,251.51,2,0,503.02,Central Anatolia,Mobile App,4
+ORD-11295,2025-10-06,Electronics,Phone Case,1118.42,1,30,782.89,Central Anatolia,Desktop,5
+ORD-11956,2025-10-06,Apparel,Sports Shorts,233.49,2,0,466.98,Mediterranean,Website,5
+ORD-10516,2025-10-07,Electronics,Phone Case,603.62,3,0,1810.86,Central Anatolia,Mobile App,1
+ORD-11749,2025-10-07,Beauty,Face Serum,202.95,2,0,405.9,Central Anatolia,Mobile App,2
+ORD-11083,2025-10-07,Beauty,Face Serum,97.97,2,10,176.35,Southeastern Anatolia,Website,4
+ORD-11961,2025-10-08,Apparel,Sweatshirt,294.92,1,0,294.92,Aegean,Mobile App,2
+ORD-11300,2025-10-08,Home & Living,LED Desk Lamp,85.08,2,0,170.16,Aegean,Website,2
+ORD-10553,2025-10-09,Apparel,Cap,62.89,1,0,62.89,Black Sea,Website,3
+ORD-10468,2025-10-09,Beauty,Moisturizing Cream,72.59,1,0,72.59,Marmara,Desktop,4
+ORD-12274,2025-10-09,Home & Living,Throw Blanket,93.75,1,15,79.69,Aegean,Mobile App,1
+ORD-10292,2025-10-09,Electronics,Phone Case,1057.89,1,0,1057.89,Black Sea,Website,3
+ORD-10628,2025-10-10,Beauty,Moisturizing Cream,72.27,1,0,72.27,Aegean,Mobile App,2
+ORD-12030,2025-10-10,Apparel,Sock Set,173.6,1,0,173.6,Marmara,Website,2
+ORD-10848,2025-10-10,Beauty,Moisturizing Cream,343.23,1,30,240.26,Aegean,Website,5
+ORD-12300,2025-10-10,Electronics,Bluetooth Speaker,836.24,1,0,836.24,Marmara,Desktop,5
+ORD-11132,2025-10-11,Electronics,Bluetooth Speaker,637.57,1,10,573.81,Mediterranean,Mobile App,5
+ORD-10817,2025-10-11,Apparel,Sports Shorts,196.02,2,0,392.04,Marmara,Website,5
+ORD-10235,2025-10-11,Beauty,Lipstick,313.01,1,0,313.01,Black Sea,Website,4
+ORD-11248,2025-10-12,Beauty,Face Serum,171.79,1,0,171.79,Mediterranean,Website,5
+ORD-10409,2025-10-12,Beauty,Face Serum,387.17,1,0,387.17,Aegean,Mobile App,5
+ORD-10854,2025-10-12,Electronics,Bluetooth Speaker,691.07,1,10,621.96,Southeastern Anatolia,Website,4
+ORD-10372,2025-10-13,Apparel,Basic T-Shirt,224.48,1,10,202.03,Marmara,Mobile App,3
+ORD-11637,2025-10-13,Beauty,Face Serum,142.97,1,0,142.97,Marmara,Mobile App,2
+ORD-10831,2025-10-13,Apparel,Sock Set,339.01,1,0,339.01,Mediterranean,Website,4
+ORD-10284,2025-10-14,Apparel,Sports Shorts,286.42,1,0,286.42,Eastern Anatolia,Mobile App,4
+ORD-11875,2025-10-14,Beauty,Lipstick,357.12,1,0,357.12,Central Anatolia,Website,4
+ORD-10849,2025-10-14,Home & Living,Candle Set,242.02,2,0,484.04,Aegean,Mobile App,4
+ORD-12128,2025-10-15,Electronics,Phone Case,585.9,1,0,585.9,Central Anatolia,Mobile App,3
+ORD-11017,2025-10-15,Home & Living,Aroma Diffuser,249.37,1,0,249.37,Mediterranean,Mobile App,5
+ORD-10618,2025-10-15,Home & Living,Aroma Diffuser,348.1,1,0,348.1,Marmara,Mobile App,5
+ORD-11895,2025-10-16,Apparel,Sports Shorts,185.75,1,15,157.89,Southeastern Anatolia,Mobile App,3
+ORD-10251,2025-10-17,Sports & Outdoor,Fitness Band,404.85,1,0,404.85,Southeastern Anatolia,Mobile App,4
+ORD-11715,2025-10-17,Home & Living,Throw Blanket,149.46,2,15,254.08,Central Anatolia,Website,5
+ORD-10578,2025-10-18,Home & Living,Candle Set,86.35,2,0,172.7,Marmara,Mobile App,4
+ORD-11472,2025-10-19,Sports & Outdoor,Yoga Mat,474.37,1,0,474.37,Southeastern Anatolia,Website,5
+ORD-12065,2025-10-20,Apparel,Sweatshirt,267.1,1,0,267.1,Central Anatolia,Mobile App,4
+ORD-11835,2025-10-20,Apparel,Cap,317.74,1,0,317.74,Black Sea,Mobile App,4
+ORD-10519,2025-10-22,Sports & Outdoor,Fitness Band,562.02,1,0,562.02,Mediterranean,Mobile App,5
+ORD-10542,2025-10-22,Home & Living,LED Desk Lamp,197.89,2,0,395.78,Black Sea,Mobile App,4
+ORD-11624,2025-10-22,Apparel,Cap,81.49,1,0,81.49,Marmara,Desktop,1
+ORD-11027,2025-10-22,Apparel,Sports Shorts,276.23,3,0,828.69,Central Anatolia,Desktop,5
+ORD-10677,2025-10-23,Electronics,Smart Watch,1162.01,1,0,1162.01,Southeastern Anatolia,Desktop,3
+ORD-11491,2025-10-23,Home & Living,Candle Set,326.65,1,0,326.65,Marmara,Website,5
+ORD-11698,2025-10-24,Beauty,Shampoo,264.07,1,0,264.07,Central Anatolia,Mobile App,4
+ORD-11574,2025-10-24,Home & Living,Storage Box Set,116.46,1,0,116.46,Marmara,Website,5
+ORD-11867,2025-10-25,Apparel,Cap,153.89,3,15,392.42,Eastern Anatolia,Website,5
+ORD-10445,2025-10-25,Apparel,Cap,204.59,1,15,173.9,Central Anatolia,Mobile App,4
+ORD-11951,2025-10-25,Home & Living,Candle Set,305.65,1,0,305.65,Black Sea,Website,5
+ORD-11913,2025-10-28,Apparel,Cap,207.96,1,15,176.77,Aegean,Mobile App,5
+ORD-11979,2025-10-28,Sports & Outdoor,Water Bottle,245.76,1,20,196.61,Marmara,Mobile App,2
+ORD-10959,2025-10-28,Sports & Outdoor,Bike Lock,408.3,1,15,347.06,Marmara,Mobile App,5
+ORD-11431,2025-10-28,Apparel,Cap,329.06,2,0,658.12,Mediterranean,Mobile App,4
+ORD-12247,2025-10-29,Electronics,Bluetooth Speaker,887.14,1,0,887.14,Aegean,Mobile App,4
+ORD-11714,2025-10-29,Beauty,Sunscreen,70.31,1,30,49.22,Black Sea,Mobile App,2
+ORD-10260,2025-10-29,Electronics,Power Bank,910.56,1,0,910.56,Marmara,Mobile App,2
+ORD-11048,2025-10-29,Home & Living,LED Desk Lamp,340.18,1,0,340.18,Marmara,Website,4
+ORD-12006,2025-10-30,Beauty,Shampoo,378.87,1,0,378.87,Aegean,Website,3
+ORD-11305,2025-10-30,Beauty,Shampoo,225.09,2,0,450.18,Southeastern Anatolia,Mobile App,3
+ORD-12026,2025-10-31,Apparel,Cap,74.29,1,10,66.86,Black Sea,Website,1
+ORD-11496,2025-11-01,Apparel,Cap,146.69,1,0,146.69,Marmara,Mobile App,5
+ORD-12270,2025-11-01,Electronics,Phone Case,318.75,1,0,318.75,Aegean,Mobile App,4
+ORD-10162,2025-11-01,Home & Living,Throw Blanket,431.59,1,0,431.59,Central Anatolia,Website,3
+ORD-11560,2025-11-01,Electronics,Wireless Earbuds,734.77,1,20,587.82,Aegean,Mobile App,4
+ORD-10139,2025-11-01,Beauty,Shampoo,225.78,1,0,225.78,Black Sea,Mobile App,4
+ORD-10735,2025-11-02,Beauty,Face Serum,111.89,1,0,111.89,Marmara,Mobile App,1
+ORD-12106,2025-11-03,Home & Living,Aroma Diffuser,395.67,1,0,395.67,Central Anatolia,Website,2
+ORD-11737,2025-11-03,Home & Living,Storage Box Set,84.97,1,0,84.97,Marmara,Mobile App,4
+ORD-11327,2025-11-04,Apparel,Cap,154.12,1,10,138.71,Central Anatolia,Mobile App,5
+ORD-12266,2025-11-04,Sports & Outdoor,Bike Lock,157.08,1,0,157.08,Black Sea,Website,5
+ORD-10094,2025-11-04,Apparel,Sports Shorts,190.76,2,0,381.52,Central Anatolia,Website,3
+ORD-10134,2025-11-05,Apparel,Cap,292.83,1,0,292.83,Aegean,Mobile App,2
+ORD-11939,2025-11-05,Home & Living,LED Desk Lamp,321.43,1,10,289.29,Marmara,Website,4
+ORD-11495,2025-11-05,Home & Living,Aroma Diffuser,231.96,1,0,231.96,Eastern Anatolia,Mobile App,4
+ORD-12087,2025-11-05,Home & Living,Candle Set,383.46,2,15,651.88,Aegean,Mobile App,5
+ORD-10851,2025-11-05,Apparel,Sock Set,282.31,3,30,592.85,Southeastern Anatolia,Website,4
+ORD-11370,2025-11-06,Home & Living,Storage Box Set,187.3,1,0,187.3,Mediterranean,Mobile App,5
+ORD-10853,2025-11-06,Apparel,Sports Shorts,87.74,1,0,87.74,Marmara,Mobile App,5
+ORD-10009,2025-11-06,Electronics,Power Bank,1034.4,1,0,1034.4,Southeastern Anatolia,Website,5
+ORD-10451,2025-11-06,Electronics,Power Bank,1084.73,1,0,1084.73,Marmara,Mobile App,4
+ORD-11533,2025-11-06,Home & Living,Aroma Diffuser,291.39,2,0,582.78,Black Sea,Mobile App,5
+ORD-11786,2025-11-06,Beauty,Sunscreen,167.23,1,0,167.23,Aegean,Mobile App,4
+ORD-11148,2025-11-06,Home & Living,LED Desk Lamp,122.7,2,0,245.4,Central Anatolia,Website,3
+ORD-10955,2025-11-06,Apparel,Cap,184.99,1,0,184.99,Aegean,Mobile App,5
+ORD-10169,2025-11-07,Home & Living,Throw Blanket,446.43,1,0,446.43,Aegean,Desktop,5
+ORD-11798,2025-11-07,Beauty,Sunscreen,202.63,1,0,202.63,Mediterranean,Mobile App,5
+ORD-11240,2025-11-07,Electronics,Smart Watch,691.94,1,0,691.94,Southeastern Anatolia,Mobile App,5
+ORD-10103,2025-11-08,Beauty,Sunscreen,296.76,2,0,593.52,Marmara,Website,5
+ORD-10159,2025-11-08,Sports & Outdoor,Bike Lock,105.9,1,0,105.9,Marmara,Mobile App,4
+ORD-10077,2025-11-08,Home & Living,Aroma Diffuser,241.44,2,30,338.02,Central Anatolia,Mobile App,5
+ORD-11052,2025-11-09,Home & Living,Throw Blanket,243.66,1,0,243.66,Mediterranean,Website,5
+ORD-10819,2025-11-09,Electronics,Phone Case,658.05,1,0,658.05,Southeastern Anatolia,Mobile App,1
+ORD-10650,2025-11-09,Home & Living,Candle Set,113.81,1,0,113.81,Black Sea,Mobile App,4
+ORD-10709,2025-11-09,Home & Living,Storage Box Set,102.95,1,0,102.95,Marmara,Website,1
+ORD-11705,2025-11-09,Sports & Outdoor,Water Bottle,200.74,1,0,200.74,Marmara,Website,4
+ORD-10567,2025-11-09,Home & Living,Storage Box Set,159.52,1,15,135.59,Central Anatolia,Mobile App,5
+ORD-11107,2025-11-10,Sports & Outdoor,Yoga Mat,322.77,1,0,322.77,Aegean,Website,5
+ORD-12205,2025-11-10,Beauty,Shampoo,391.52,1,20,313.22,Aegean,Mobile App,4
+ORD-11669,2025-11-10,Electronics,Phone Case,204.86,1,0,204.86,Central Anatolia,Mobile App,5
+ORD-10663,2025-11-11,Apparel,Sweatshirt,224.16,1,0,224.16,Central Anatolia,Mobile App,5
+ORD-12104,2025-11-11,Apparel,Basic T-Shirt,349.62,1,0,349.62,Marmara,Desktop,1
+ORD-11679,2025-11-12,Beauty,Lipstick,349.83,1,0,349.83,Central Anatolia,Website,1
+ORD-11613,2025-11-12,Sports & Outdoor,Bike Lock,520.55,1,10,468.49,Black Sea,Mobile App,4
+ORD-10262,2025-11-12,Electronics,Wireless Earbuds,990.37,1,0,990.37,Southeastern Anatolia,Website,4
+ORD-11699,2025-11-13,Beauty,Moisturizing Cream,181.14,1,10,163.03,Southeastern Anatolia,Website,3
+ORD-10562,2025-11-13,Home & Living,Throw Blanket,98.0,1,0,98.0,Central Anatolia,Mobile App,5
+ORD-10035,2025-11-13,Apparel,Basic T-Shirt,225.88,1,0,225.88,Eastern Anatolia,Mobile App,5
+ORD-11378,2025-11-14,Sports & Outdoor,Fitness Band,189.34,2,10,340.81,Central Anatolia,Mobile App,4
+ORD-10492,2025-11-14,Home & Living,Candle Set,298.46,1,0,298.46,Mediterranean,Mobile App,5
+ORD-11316,2025-11-14,Beauty,Face Serum,310.9,1,0,310.9,Black Sea,Mobile App,3
+ORD-10170,2025-11-14,Electronics,Phone Case,808.88,2,30,1132.43,Mediterranean,Mobile App,4
+ORD-11391,2025-11-14,Apparel,Sweatshirt,254.13,1,0,254.13,Southeastern Anatolia,Website,2
+ORD-10532,2025-11-15,Beauty,Sunscreen,136.09,1,0,136.09,Mediterranean,Mobile App,5
+ORD-11384,2025-11-15,Home & Living,Aroma Diffuser,403.73,2,30,565.22,Southeastern Anatolia,Website,3
+ORD-12040,2025-11-15,Beauty,Shampoo,178.84,1,10,160.96,Mediterranean,Mobile App,3
+ORD-10918,2025-11-16,Beauty,Sunscreen,114.03,1,10,102.63,Marmara,Mobile App,5
+ORD-11081,2025-11-16,Apparel,Cap,116.5,1,20,93.2,Aegean,Mobile App,4
+ORD-10423,2025-11-16,Beauty,Moisturizing Cream,188.38,2,0,376.76,Marmara,Desktop,5
+ORD-12271,2025-11-16,Electronics,Bluetooth Speaker,217.02,1,0,217.02,Southeastern Anatolia,Mobile App,5
+ORD-11582,2025-11-16,Apparel,Cap,123.69,1,10,111.32,Marmara,Mobile App,3
+ORD-12324,2025-11-17,Home & Living,Aroma Diffuser,197.3,1,15,167.7,Southeastern Anatolia,Mobile App,5
+ORD-10397,2025-11-17,Apparel,Sports Shorts,175.82,2,10,316.48,Marmara,Mobile App,3
+ORD-11666,2025-11-18,Sports & Outdoor,Yoga Mat,508.45,1,10,457.6,Marmara,Mobile App,3
+ORD-10430,2025-11-18,Beauty,Lipstick,202.95,1,0,202.95,Marmara,Website,2
+ORD-10911,2025-11-19,Home & Living,Storage Box Set,245.14,1,0,245.14,Eastern Anatolia,Mobile App,4
+ORD-11037,2025-11-19,Apparel,Cap,171.29,3,0,513.87,Aegean,Mobile App,5
+ORD-12302,2025-11-19,Electronics,Power Bank,1116.41,2,0,2232.82,Aegean,Website,5
+ORD-11881,2025-11-20,Apparel,Sweatshirt,196.06,2,0,392.12,Marmara,Mobile App,5
+ORD-12232,2025-11-20,Sports & Outdoor,Fitness Band,311.32,1,0,311.32,Central Anatolia,Mobile App,5
+ORD-11647,2025-11-20,Beauty,Sunscreen,122.22,1,0,122.22,Mediterranean,Mobile App,5
+ORD-11620,2025-11-20,Home & Living,Throw Blanket,175.71,1,0,175.71,Marmara,Website,5
+ORD-10871,2025-11-20,Beauty,Face Serum,72.43,1,0,72.43,Marmara,Mobile App,1
+ORD-11125,2025-11-21,Home & Living,Storage Box Set,286.42,1,0,286.42,Marmara,Mobile App,3
+ORD-10422,2025-11-21,Sports & Outdoor,Fitness Band,409.56,2,0,819.12,Central Anatolia,Website,3
+ORD-10790,2025-11-21,Home & Living,Aroma Diffuser,80.61,1,0,80.61,Central Anatolia,Website,5
+ORD-11311,2025-11-21,Apparel,Sock Set,268.64,2,0,537.28,Marmara,Mobile App,5
+ORD-12237,2025-11-21,Home & Living,Candle Set,114.49,1,0,114.49,Marmara,Mobile App,3
+ORD-10989,2025-11-22,Electronics,Bluetooth Speaker,812.67,1,0,812.67,Marmara,Desktop,1
+ORD-12286,2025-11-22,Electronics,Bluetooth Speaker,969.98,3,0,2909.94,Mediterranean,Mobile App,4
+ORD-11660,2025-11-23,Electronics,Power Bank,904.38,1,0,904.38,Mediterranean,Website,5
+ORD-11082,2025-11-23,Apparel,Sweatshirt,123.13,3,0,369.39,Aegean,Mobile App,5
+ORD-10482,2025-11-23,Electronics,Phone Case,562.08,1,15,477.77,Eastern Anatolia,Website,5
+ORD-10900,2025-11-23,Electronics,Smart Watch,287.98,1,0,287.98,Mediterranean,Mobile App,4
+ORD-11395,2025-11-23,Home & Living,Aroma Diffuser,381.73,1,0,381.73,Southeastern Anatolia,Website,5
+ORD-10675,2025-11-23,Apparel,Sock Set,297.33,1,15,252.73,Eastern Anatolia,Mobile App,5
+ORD-10838,2025-11-24,Electronics,Phone Case,737.73,2,0,1475.46,Aegean,Desktop,4
+ORD-11806,2025-11-24,Electronics,Power Bank,368.8,1,15,313.48,Aegean,Mobile App,4
+ORD-10367,2025-11-24,Home & Living,Throw Blanket,232.72,2,0,465.44,Marmara,Mobile App,5
+ORD-10798,2025-11-24,Sports & Outdoor,Fitness Band,212.99,1,0,212.99,Marmara,Website,5
+ORD-12264,2025-11-25,Home & Living,Storage Box Set,194.12,1,0,194.12,Aegean,Mobile App,5
+ORD-11790,2025-11-25,Home & Living,Throw Blanket,247.61,1,0,247.61,Marmara,Mobile App,4
+ORD-11662,2025-11-25,Apparel,Sports Shorts,244.97,1,0,244.97,Black Sea,Website,5
+ORD-10729,2025-11-26,Home & Living,Storage Box Set,218.31,1,0,218.31,Marmara,Website,5
+ORD-10527,2025-11-26,Electronics,Wireless Earbuds,605.26,1,0,605.26,Southeastern Anatolia,Mobile App,5
+ORD-12028,2025-11-26,Apparel,Cap,256.97,2,0,513.94,Black Sea,Mobile App,5
+ORD-11185,2025-11-26,Electronics,Phone Case,478.38,1,0,478.38,Central Anatolia,Desktop,3
+ORD-11230,2025-11-27,Home & Living,Aroma Diffuser,248.33,1,0,248.33,Eastern Anatolia,Mobile App,5
+ORD-11868,2025-11-27,Sports & Outdoor,Fitness Band,222.88,1,0,222.88,Marmara,Desktop,2
+ORD-11288,2025-11-27,Apparel,Sweatshirt,240.04,1,0,240.04,Mediterranean,Mobile App,2
+ORD-10494,2025-11-28,Electronics,Power Bank,846.2,1,10,761.58,Aegean,Mobile App,5
+ORD-12025,2025-11-28,Sports & Outdoor,Water Bottle,212.2,2,20,339.52,Black Sea,Mobile App,5
+ORD-10603,2025-11-28,Apparel,Basic T-Shirt,303.09,1,15,257.63,Aegean,Mobile App,4
+ORD-10224,2025-11-28,Electronics,Wireless Earbuds,1158.82,1,10,1042.94,Central Anatolia,Website,3
+ORD-10906,2025-11-28,Sports & Outdoor,Fitness Band,202.25,1,15,171.91,Marmara,Website,5
+ORD-11131,2025-11-29,Home & Living,Aroma Diffuser,252.93,1,20,202.34,Marmara,Mobile App,4
+ORD-11500,2025-11-29,Home & Living,Storage Box Set,116.42,2,0,232.84,Marmara,Website,2
+ORD-11127,2025-12-01,Apparel,Cap,143.3,1,10,128.97,Marmara,Website,3
+ORD-12159,2025-12-01,Home & Living,Throw Blanket,130.72,1,0,130.72,Mediterranean,Website,5
+ORD-11879,2025-12-01,Electronics,Smart Watch,1053.68,1,0,1053.68,Southeastern Anatolia,Mobile App,2
+ORD-12099,2025-12-02,Beauty,Shampoo,316.86,1,0,316.86,Central Anatolia,Mobile App,5
+ORD-10278,2025-12-02,Apparel,Sports Shorts,297.43,1,0,297.43,Marmara,Mobile App,1
+ORD-11116,2025-12-03,Home & Living,Candle Set,217.88,1,0,217.88,Marmara,Website,5
+ORD-11217,2025-12-03,Electronics,Smart Watch,249.28,1,0,249.28,Central Anatolia,Mobile App,5
+ORD-11721,2025-12-03,Beauty,Face Serum,270.26,1,0,270.26,Marmara,Mobile App,5
+ORD-11760,2025-12-04,Electronics,Wireless Earbuds,154.56,1,0,154.56,Marmara,Desktop,5
+ORD-11653,2025-12-05,Beauty,Shampoo,296.28,1,0,296.28,Aegean,Mobile App,4
+ORD-10065,2025-12-05,Sports & Outdoor,Backpack,132.48,1,0,132.48,Central Anatolia,Mobile App,2
+ORD-11764,2025-12-05,Apparel,Sweatshirt,288.05,1,0,288.05,Aegean,Website,5
+ORD-11572,2025-12-05,Home & Living,Storage Box Set,372.26,1,0,372.26,Aegean,Mobile App,3
+ORD-11203,2025-12-05,Sports & Outdoor,Water Bottle,159.11,1,0,159.11,Southeastern Anatolia,Mobile App,5
+ORD-10788,2025-12-06,Apparel,Cap,287.67,1,10,258.9,Central Anatolia,Mobile App,4
+ORD-10820,2025-12-07,Electronics,Bluetooth Speaker,1078.7,1,0,1078.7,Marmara,Mobile App,2
+ORD-10053,2025-12-07,Electronics,Smart Watch,331.86,1,0,331.86,Central Anatolia,Website,5
+ORD-11002,2025-12-07,Home & Living,Throw Blanket,264.62,1,0,264.62,Central Anatolia,Website,4
+ORD-10859,2025-12-07,Sports & Outdoor,Bike Lock,165.46,3,0,496.38,Marmara,Mobile App,3
+ORD-12015,2025-12-07,Apparel,Sports Shorts,188.78,1,10,169.9,Marmara,Mobile App,4
+ORD-10535,2025-12-07,Apparel,Sports Shorts,313.38,1,10,282.04,Central Anatolia,Mobile App,5
+ORD-10410,2025-12-08,Apparel,Sweatshirt,303.18,1,10,272.86,Mediterranean,Mobile App,4
+ORD-11820,2025-12-08,Sports & Outdoor,Yoga Mat,205.31,2,0,410.62,Eastern Anatolia,Mobile App,5
+ORD-11924,2025-12-08,Home & Living,Throw Blanket,414.72,1,0,414.72,Black Sea,Mobile App,5
+ORD-11518,2025-12-09,Apparel,Sports Shorts,232.98,1,0,232.98,Aegean,Website,5
+ORD-12212,2025-12-09,Electronics,Smart Watch,470.18,1,0,470.18,Marmara,Mobile App,4
+ORD-10877,2025-12-09,Beauty,Moisturizing Cream,90.53,2,0,181.06,Aegean,Mobile App,3
+ORD-11404,2025-12-09,Sports & Outdoor,Backpack,130.12,1,0,130.12,Marmara,Mobile App,5
+ORD-10752,2025-12-09,Electronics,Wireless Earbuds,1107.56,1,0,1107.56,Marmara,Mobile App,5
+ORD-11056,2025-12-09,Apparel,Sports Shorts,81.19,1,30,56.83,Central Anatolia,Website,5
+ORD-10298,2025-12-09,Apparel,Sock Set,103.55,1,0,103.55,Mediterranean,Mobile App,5
+ORD-10601,2025-12-09,Apparel,Sock Set,193.28,1,10,173.95,Marmara,Mobile App,4
+ORD-12158,2025-12-10,Sports & Outdoor,Fitness Band,377.31,1,0,377.31,Central Anatolia,Mobile App,5
+ORD-10754,2025-12-10,Beauty,Lipstick,365.87,1,0,365.87,Southeastern Anatolia,Website,2
+ORD-12167,2025-12-11,Home & Living,LED Desk Lamp,255.14,1,10,229.63,Marmara,Website,2
+ORD-10007,2025-12-12,Beauty,Face Serum,295.8,1,0,295.8,Central Anatolia,Mobile App,2
+ORD-10568,2025-12-12,Beauty,Lipstick,386.3,1,0,386.3,Central Anatolia,Website,3
+ORD-12027,2025-12-13,Apparel,Sweatshirt,99.79,1,15,84.82,Black Sea,Mobile App,4
+ORD-10390,2025-12-13,Beauty,Face Serum,306.8,2,0,613.6,Southeastern Anatolia,Mobile App,4
+ORD-10135,2025-12-13,Home & Living,LED Desk Lamp,163.1,1,0,163.1,Marmara,Mobile App,5
+ORD-11693,2025-12-13,Apparel,Sweatshirt,189.06,3,10,510.46,Southeastern Anatolia,Website,5
+ORD-10020,2025-12-14,Apparel,Sweatshirt,322.98,1,0,322.98,Marmara,Mobile App,5
+ORD-11044,2025-12-15,Apparel,Sweatshirt,231.35,1,0,231.35,Aegean,Website,5
+ORD-10786,2025-12-15,Electronics,Wireless Earbuds,612.7,2,0,1225.4,Central Anatolia,Mobile App,1
+ORD-12303,2025-12-15,Electronics,Bluetooth Speaker,358.32,1,0,358.32,Marmara,Mobile App,5
+ORD-11909,2025-12-15,Home & Living,Aroma Diffuser,222.0,1,0,222.0,Mediterranean,Mobile App,3
+ORD-10917,2025-12-15,Home & Living,Aroma Diffuser,362.97,1,10,326.67,Marmara,Website,5
+ORD-10481,2025-12-15,Home & Living,Aroma Diffuser,325.1,1,0,325.1,Aegean,Desktop,1
+ORD-10598,2025-12-16,Home & Living,Candle Set,385.85,1,0,385.85,Marmara,Desktop,5
+ORD-10651,2025-12-16,Sports & Outdoor,Bike Lock,520.78,1,0,520.78,Southeastern Anatolia,Mobile App,3
+ORD-10047,2025-12-16,Electronics,Phone Case,819.3,1,30,573.51,Central Anatolia,Mobile App,3
+ORD-10596,2025-12-16,Apparel,Sweatshirt,220.04,1,0,220.04,Marmara,Mobile App,5
+ORD-10903,2025-12-17,Electronics,Wireless Earbuds,486.77,1,0,486.77,Eastern Anatolia,Mobile App,4
+ORD-11800,2025-12-17,Electronics,Bluetooth Speaker,392.59,1,0,392.59,Black Sea,Mobile App,2
+ORD-11982,2025-12-17,Home & Living,Candle Set,180.34,2,0,360.68,Marmara,Website,5
+ORD-10577,2025-12-17,Sports & Outdoor,Fitness Band,299.71,1,0,299.71,Aegean,Website,4
+ORD-11904,2025-12-17,Apparel,Cap,139.37,1,0,139.37,Marmara,Website,4
+ORD-11332,2025-12-17,Electronics,Power Bank,233.57,2,0,467.14,Black Sea,Website,3
+ORD-11902,2025-12-18,Apparel,Sock Set,161.5,1,0,161.5,Marmara,Website,5
+ORD-10912,2025-12-19,Apparel,Sweatshirt,185.05,1,0,185.05,Marmara,Mobile App,3
+ORD-11995,2025-12-19,Home & Living,Candle Set,267.92,2,10,482.26,Southeastern Anatolia,Mobile App,4
+ORD-10215,2025-12-19,Beauty,Moisturizing Cream,99.0,1,0,99.0,Marmara,Mobile App,5
+ORD-11193,2025-12-19,Beauty,Shampoo,286.36,1,0,286.36,Black Sea,Website,4
+ORD-10840,2025-12-20,Apparel,Cap,238.99,3,0,716.97,Southeastern Anatolia,Website,4
+ORD-10043,2025-12-20,Sports & Outdoor,Backpack,384.92,1,0,384.92,Central Anatolia,Mobile App,4
+ORD-10796,2025-12-20,Apparel,Sweatshirt,346.76,1,30,242.73,Mediterranean,Mobile App,4
+ORD-10550,2025-12-20,Beauty,Moisturizing Cream,357.27,1,0,357.27,Marmara,Website,5
+ORD-10536,2025-12-20,Beauty,Moisturizing Cream,329.08,1,0,329.08,Central Anatolia,Mobile App,4
+ORD-12227,2025-12-21,Sports & Outdoor,Water Bottle,371.43,1,0,371.43,Marmara,Website,4
+ORD-10102,2025-12-21,Beauty,Face Serum,139.09,1,0,139.09,Central Anatolia,Mobile App,4
+ORD-10366,2025-12-21,Electronics,Wireless Earbuds,1093.79,1,15,929.72,Marmara,Mobile App,5
+ORD-11119,2025-12-22,Sports & Outdoor,Bike Lock,263.01,1,0,263.01,Marmara,Mobile App,5
+ORD-11198,2025-12-22,Sports & Outdoor,Water Bottle,209.15,1,10,188.24,Black Sea,Mobile App,2
+ORD-11233,2025-12-22,Electronics,Power Bank,354.28,1,0,354.28,Black Sea,Mobile App,5
+ORD-11606,2025-12-22,Sports & Outdoor,Bike Lock,180.91,3,0,542.73,Central Anatolia,Mobile App,2
+ORD-11727,2025-12-22,Electronics,Wireless Earbuds,660.77,1,10,594.69,Mediterranean,Mobile App,5
+ORD-11352,2025-12-23,Beauty,Moisturizing Cream,326.26,2,0,652.52,Central Anatolia,Mobile App,3
+ORD-11681,2025-12-23,Home & Living,Candle Set,287.04,1,30,200.93,Mediterranean,Website,5
+ORD-12013,2025-12-23,Beauty,Sunscreen,80.97,1,0,80.97,Southeastern Anatolia,Mobile App,5
+ORD-10909,2025-12-23,Beauty,Face Serum,174.58,1,0,174.58,Black Sea,Website,3
+ORD-11861,2025-12-23,Apparel,Cap,112.21,1,10,100.99,Marmara,Mobile App,4
+ORD-11338,2025-12-24,Electronics,Bluetooth Speaker,852.82,2,0,1705.64,Marmara,Website,5
+ORD-10711,2025-12-24,Home & Living,Aroma Diffuser,324.09,1,0,324.09,Marmara,Website,2
+ORD-11763,2025-12-24,Beauty,Face Serum,149.96,1,0,149.96,Central Anatolia,Website,4
+ORD-11665,2025-12-24,Beauty,Lipstick,150.1,3,0,450.3,Central Anatolia,Desktop,5
+ORD-11401,2025-12-25,Electronics,Phone Case,689.39,1,0,689.39,Central Anatolia,Website,1
+ORD-10622,2025-12-25,Sports & Outdoor,Fitness Band,401.85,1,0,401.85,Black Sea,Desktop,2
+ORD-11830,2025-12-25,Apparel,Sock Set,209.49,1,0,209.49,Aegean,Website,5
+ORD-10286,2025-12-25,Electronics,Phone Case,332.44,1,10,299.2,Mediterranean,Website,5
+ORD-10704,2025-12-25,Electronics,Bluetooth Speaker,349.43,1,0,349.43,Aegean,Desktop,5
+ORD-12160,2025-12-26,Beauty,Moisturizing Cream,310.96,1,0,310.96,Aegean,Mobile App,1
+ORD-12290,2025-12-26,Electronics,Wireless Earbuds,829.27,1,0,829.27,Southeastern Anatolia,Website,5
+ORD-10028,2025-12-26,Home & Living,LED Desk Lamp,206.19,1,20,164.95,Southeastern Anatolia,Mobile App,4
+ORD-10647,2025-12-26,Home & Living,Throw Blanket,242.13,2,20,387.41,Aegean,Website,4
+ORD-10785,2025-12-27,Apparel,Cap,343.5,1,30,240.45,Southeastern Anatolia,Mobile App,5
+ORD-10478,2025-12-28,Sports & Outdoor,Bike Lock,456.35,1,0,456.35,Mediterranean,Mobile App,4
+ORD-11348,2025-12-28,Electronics,Smart Watch,1190.61,1,0,1190.61,Marmara,Website,5
+ORD-10860,2025-12-28,Home & Living,Candle Set,244.96,2,15,416.43,Marmara,Mobile App,2
+ORD-11675,2025-12-28,Apparel,Sock Set,244.55,1,0,244.55,Marmara,Mobile App,3
+ORD-10747,2025-12-29,Home & Living,Storage Box Set,212.39,1,0,212.39,Marmara,Mobile App,4
+ORD-10797,2025-12-29,Sports & Outdoor,Backpack,362.68,2,0,725.36,Eastern Anatolia,Mobile App,5
+ORD-11063,2025-12-29,Sports & Outdoor,Water Bottle,178.57,1,0,178.57,Southeastern Anatolia,Website,4
+ORD-11234,2025-12-30,Beauty,Moisturizing Cream,209.44,1,0,209.44,Marmara,Mobile App,5
+ORD-12218,2025-12-30,Electronics,Power Bank,184.11,2,0,368.22,Black Sea,Mobile App,5
+ORD-10336,2025-12-30,Apparel,Cap,70.52,1,0,70.52,Black Sea,Desktop,5
+ORD-10591,2025-12-30,Electronics,Bluetooth Speaker,204.59,1,0,204.59,Marmara,Website,2
+ORD-11419,2025-12-30,Home & Living,Aroma Diffuser,304.23,1,20,243.38,Mediterranean,Website,4
+ORD-10359,2025-12-30,Home & Living,Storage Box Set,212.39,1,10,191.15,Aegean,Mobile App,4
